@@ -8,7 +8,8 @@ Do not ask the owner anything during this routine: use these defaults. If someth
 1. Setup: `CHROME=/opt/pw-browsers/chromium bash .claude/skills/faceless-shorts/scripts/setup.sh` (Whisper may fail on
    the network: that's fine, words.py falls back to line times). Read `.claude/skills/faceless-shorts/SKILL.md` and
    `styles/katha/STYLE.md` + `styles/paper-atlas/STYLE.md` in full, and `projects/samudra-manthan/src/shots.js` as the model.
-2. Pick the first unticked story in `STORIES.md`. Today's date (IST) = `D` (YYYY-MM-DD).
+2. Pick the first unticked story in `STORIES.md`. `D` = TOMORROW's date in IST (YYYY-MM-DD): each run makes the next day's reel,
+   so there is always a one-day buffer. If Metricool already has an Instagram post scheduled on D, use the next free day.
 3. `bash .claude/skills/faceless-shorts/scripts/new_video.sh katha <slug> --dir projects`, write `script.json`
    (2 hook lines + story, ~280-300 words, sources with chapter refs, one crimson word per caption), voice.py, words.py.
 4. Write `src/shots.js` (reuse the kit: person/VISHNU/SHIVA/…; add new beings/props in the same cut-paper look).
@@ -21,7 +22,7 @@ Do not ask the owner anything during this routine: use these defaults. If someth
 6. Tick the story in `STORIES.md` with the date, commit, `git push origin katha-reels`.
 7. Check `https://raw.githubusercontent.com/divyanshu744/myupload/katha-reels/reels/D-<slug>.mp4` returns 200.
 8. Metricool: `getBrandSettings` (brand label divyanshu.koshta, blogId 7966124, timezone Asia/Calcutta), then
-   `createScheduledPost` for D 13:00 Asia/Calcutta (if that time has passed, 30 minutes from now):
+   `createScheduledPost` for D 13:00 Asia/Calcutta:
    providers instagram, instagramData {type: "REEL", showReelOnFeed: true, isAiGenerated: true}, media [the raw URL],
    videoThumbnailUrl the raw .jpg URL, autoPublish true, text = Hindi caption (2-3 lines: hook question + one line of the
    story + 🙏) + 6-8 hashtags (#HinduMythology #SanatanDharma #<story> …).
