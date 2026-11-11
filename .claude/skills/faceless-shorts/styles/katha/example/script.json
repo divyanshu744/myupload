@@ -1,0 +1,167 @@
+{
+ "title": "समुद्र मंथन: विष से अमृत तक",
+ "voice": "hm_omega",
+ "speed": 1.15,
+ "lead": 0.3,
+ "outro": 1.4,
+ "gap": 0.25,
+ "music": "bed",
+ "sources": [
+  "Vishnu Purana, Book 1, Chapter 9: Durvasa gives Indra a divine garland, Indra places it on Airavata, the elephant throws it to the ground; Durvasa's curse makes the three worlds lose their Shri (splendour); the devas seek Vishnu, who advises churning the Ocean of Milk with the asuras, with Mandara as the churning rod and Vasuki as the rope; Lakshmi rises from the ocean and goes to Vishnu",
+  "Bhagavata Purana, Canto 8, Chapters 5-7: the devas go to Vishnu; the alliance with the asuras; Mandara sinks and Vishnu becomes Kurma, the tortoise, holding it on his back; the halahala poison rises first and Shiva drinks it, which stays in his throat and turns it blue (Nilakantha)",
+  "Bhagavata Purana, Canto 8, Chapters 8-9: Kamadhenu, Uchchaihshravas, the Kalpavriksha and Lakshmi emerge; Dhanvantari appears with the pot of amrit; the asuras snatch it; Vishnu takes the form of Mohini and serves the amrit to the devas",
+  "Parvati holding Shiva's throat so the poison stays there is a popular later retelling (folk and temple tradition), not in the Bhagavata verse itself"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि भगवान शिव का कंठ नीला क्यों है?",
+   "caps": "क्या आप *जानते हैं | शिव का कंठ *नीला | *क्यों है?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.3
+  },
+  {
+   "text": "एक समय की बात है, देवराज इंद्र अपने हाथी ऐरावत पर सवार थे,",
+   "caps": "देवराज *इंद्र | *ऐरावत पर सवार"
+  },
+  {
+   "text": "तभी ऋषि दुर्वासा ने उन्हें फूलों की एक दिव्य माला भेंट की।",
+   "caps": "ऋषि *दुर्वासा | दिव्य *माला"
+  },
+  {
+   "text": "इंद्र ने वो माला ऐरावत के सिर पर रख दी,",
+   "caps": "माला *ऐरावत के | *सिर पर"
+  },
+  {
+   "text": "और ऐरावत ने उसे ज़मीन पर फेंककर कुचल दिया।",
+   "caps": "*ज़मीन पर | *कुचल दिया"
+  },
+  {
+   "text": "क्रोधित दुर्वासा ने श्राप दिया,",
+   "caps": "दुर्वासा ने *श्राप दिया"
+  },
+  {
+   "text": "कि देवताओं का सारा तेज और वैभव चला जाएगा।",
+   "caps": "सारा *तेज | और *वैभव | चला *जाएगा"
+  },
+  {
+   "text": "और ऐसा ही हुआ। असुरों ने स्वर्ग जीत लिया।",
+   "caps": "ऐसा ही *हुआ | *असुरों ने | स्वर्ग *जीत लिया"
+  },
+  {
+   "text": "हारे हुए देवता, भगवान विष्णु की शरण में पहुँचे।",
+   "caps": "भगवान *विष्णु | की *शरण में"
+  },
+  {
+   "text": "विष्णु जी बोले, क्षीरसागर का मंथन करो,",
+   "caps": "*क्षीरसागर का | *मंथन करो"
+  },
+  {
+   "text": "उसमें से अमृत निकलेगा, जो तुम्हें अमर कर देगा।",
+   "caps": "उसमें से *अमृत | *अमर कर देगा"
+  },
+  {
+   "text": "पर ये काम अकेले नहीं होगा, असुरों को भी साथ लो।",
+   "caps": "*अकेले नहीं | असुरों को भी *साथ लो"
+  },
+  {
+   "text": "तो मंदराचल पर्वत बना मथानी,",
+   "caps": "*मंदराचल पर्वत | बना *मथानी"
+  },
+  {
+   "text": "और नागराज वासुकि बने रस्सी।",
+   "caps": "नागराज *वासुकि | बने *रस्सी"
+  },
+  {
+   "text": "एक तरफ़ देवता, दूसरी तरफ़ असुर,",
+   "caps": "एक तरफ़ *देवता | दूसरी तरफ़ *असुर"
+  },
+  {
+   "text": "और शुरू हुआ समुद्र मंथन।",
+   "caps": "*समुद्र मंथन"
+  },
+  {
+   "text": "पर भारी पर्वत, समुद्र में डूबने लगा।",
+   "caps": "पर्वत *डूबने लगा"
+  },
+  {
+   "text": "तब विष्णु जी ने कछुए का रूप लिया, कूर्म अवतार,",
+   "caps": "*कछुए का रूप | कूर्म *अवतार"
+  },
+  {
+   "text": "और पूरे पर्वत को अपनी पीठ पर उठा लिया।",
+   "caps": "अपनी *पीठ पर | *उठा लिया"
+  },
+  {
+   "text": "मंथन से सबसे पहले निकला हलाहल,",
+   "caps": "सबसे *पहले | *हलाहल"
+  },
+  {
+   "text": "ऐसा भयानक विष, जो पूरी सृष्टि को जला सकता था।",
+   "caps": "भयानक *विष | पूरी *सृष्टि को"
+  },
+  {
+   "text": "सब डर गए। तब भगवान शिव आगे आए,",
+   "caps": "सब *डर गए | भगवान *शिव"
+  },
+  {
+   "text": "और उन्होंने सारा विष पी लिया।",
+   "caps": "सारा विष *पी लिया"
+  },
+  {
+   "text": "माता पार्वती ने उनका कंठ थाम लिया,",
+   "caps": "माता *पार्वती | कंठ *थाम लिया"
+  },
+  {
+   "text": "विष गले में ही रुक गया, और कंठ नीला हो गया।",
+   "caps": "गले में *रुक गया | कंठ *नीला"
+  },
+  {
+   "text": "इसीलिए शिव जी कहलाए, नीलकंठ।",
+   "caps": "*नीलकंठ"
+  },
+  {
+   "text": "फिर निकले अनमोल रत्न, कामधेनु गाय, उच्चैश्रवा घोड़ा, कल्पवृक्ष,",
+   "caps": "अनमोल *रत्न | *कामधेनु | *उच्चैश्रवा | *कल्पवृक्ष"
+  },
+  {
+   "text": "और कमल पर विराजमान माता लक्ष्मी,",
+   "caps": "माता *लक्ष्मी"
+  },
+  {
+   "text": "जिन्होंने भगवान विष्णु को चुना।",
+   "caps": "*विष्णु को चुना"
+  },
+  {
+   "text": "आख़िर में धन्वंतरि प्रकट हुए, हाथ में अमृत कलश लिए।",
+   "caps": "*धन्वंतरि | *अमृत कलश"
+  },
+  {
+   "text": "पर असुरों ने कलश छीन लिया!",
+   "caps": "कलश *छीन लिया!"
+  },
+  {
+   "text": "तब विष्णु जी ने लिया मोहिनी रूप,",
+   "caps": "*मोहिनी रूप"
+  },
+  {
+   "text": "और चतुराई से सारा अमृत देवताओं को पिला दिया।",
+   "caps": "*चतुराई से | अमृत *देवताओं को"
+  },
+  {
+   "text": "देवताओं का खोया तेज लौट आया।",
+   "caps": "तेज *लौट आया"
+  },
+  {
+   "text": "याद रखिए, अमृत से पहले विष आता है।",
+   "caps": "अमृत से *पहले | *विष आता है"
+  },
+  {
+   "text": "जो धैर्य से विष सह ले, अमृत उसी को मिलता है।",
+   "caps": "*धैर्य से | अमृत *उसी को",
+   "gap": 0.2
+  }
+ ]
+}
