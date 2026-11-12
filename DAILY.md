@@ -1,7 +1,9 @@
 # Daily routine: one new Katha reel on Instagram (@divyanshu.koshta) at 1 PM IST
 
 The owner wants: Hindi narration, Devanagari captions, ~90-120 s, stories of the gods from Hindu scriptures,
-hook first ("क्या आप जानते हैं, कि …? नहीं? तो आइए, मैं बताता हूँ।"), voice speed 1.15, posted automatically at 13:00 IST.
+hook first ("क्या आप जानते हैं, कि …? नहीं? तो आइए, मैं बताता हूँ।"), FAST pace (owner said 1.15 felt slow and boring):
+voice `"speed": 1.3, "lead": 0.2, "gap": 0.15, "outro": 1.0`, no line gap above 0.2, a new cut every 1.5-3 s, ~60-80 s total
+(~230-260 words, tight script, no filler sentences), posted automatically at 13:00 IST.
 Do not ask the owner anything during this routine: use these defaults. If something fails, stop and report it.
 
 ## Steps

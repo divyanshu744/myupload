@@ -127,7 +127,7 @@ overwrite a user's project without asking; ship a frame you haven't looked at.
 ## Learned with this user (Hindi devotional reels)
 - They want Hindi narration + Devanagari captions, ~2 minute reels of stories of the gods from Hindu scriptures.
 - Always open with a hook: "क्या आप जानते हैं, कि …? नहीं? तो आइए, मैं बताता हूँ।"
-- Voice speed 1.15 or faster (1.0 felt boring). Short gaps (0.25 s).
+- FAST pace: voice speed 1.3, gaps 0.15 s, cuts every 1.5-3 s, 60-80 s reels (1.0 and 1.15 felt slow and boring).
 - They prefer action over long plans: keep the plan short, then build.
 - In a cloud sandbox: Chrome is at /opt/pw-browsers/chromium (`CHROME=...`); Hugging Face may be blocked, so Whisper
   is unavailable and words.py falls back to line-time spreading (fine). Put projects under the working directory
