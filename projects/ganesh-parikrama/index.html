@@ -1,0 +1,15 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Samudra Manthan</title>
+<style>
+@font-face { font-family: 'Inter'; font-weight: 900; src: url('fonts/Inter-Black.otf'); }
+@font-face { font-family: 'Inter'; font-weight: 800; src: url('fonts/Inter-Black.otf'); }
+@font-face { font-family: 'Caladea'; font-weight: 700; src: url('fonts/Caladea-Bold.ttf'); }
+@font-face { font-family: 'NotoDeva'; font-weight: 400 900; src: url('fonts/NotoSerifDeva-deva.woff2') format('woff2'); unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF; }
+@font-face { font-family: 'NotoDeva'; font-weight: 400 900; src: url('fonts/NotoSerifDeva-latin.woff2') format('woff2'); unicode-range: U+0000-00FF, U+2000-206F; }
+html, body { margin: 0; background: #111; height: 100%; } body { display: flex; align-items: center; justify-content: center; }
+canvas { display: block; height: 100vh; width: auto; } body.capture canvas { height: auto; }
+#play { position: fixed; font: 900 28px Inter, sans-serif; padding: 18px 36px; border: 0; border-radius: 40px; background: #C8952F; cursor: pointer; }
+</style></head>
+<body><canvas id="cv" width="1080" height="1920"></canvas><button id="play" hidden>▶ PLAY</button>
+<script>if (location.search.includes('capture')) document.body.className = 'capture';</script>
+<script type="module" src="src/main.js"></script></body></html>

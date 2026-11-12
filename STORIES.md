@@ -4,7 +4,7 @@ Format: `- [ ] slug | Hindi title | main source | hook question idea`
 Tick `[x]` and add the date when a reel is posted. Never repeat a ticked story.
 
 - [x] samudra-manthan | समुद्र मंथन: विष से अमृत तक | Bhagavata Purana 8.5-8.9, Vishnu Purana 1.9 | शिव का कंठ नीला क्यों है? (posted 2026-11-12)
-- [ ] ganesh-parikrama | गणेश जी की परिक्रमा | Shiva Purana (Rudra Samhita, Kumara Khanda) / popular tradition | गणेश जी ने बिना दौड़े पूरी दुनिया की परिक्रमा कैसे जीती?
+- [x] ganesh-parikrama | गणेश जी की परिक्रमा | Shiva Purana (Rudra Samhita, Kumara Khanda) / popular tradition | गणेश जी ने बिना दौड़े पूरी दुनिया की परिक्रमा कैसे जीती? (posted 2026-11-13)
 - [ ] govardhan | गोवर्धन पर्वत | Bhagavata Purana 10.24-25 | कृष्ण ने सात दिन तक एक पूरा पर्वत उंगली पर क्यों उठाए रखा?
 - [ ] bal-hanuman-surya | बाल हनुमान और सूर्य | Valmiki Ramayana, Kishkindha Kanda 66 | हनुमान जी ने बचपन में सूर्य को क्या समझ लिया था?
 - [ ] dhruv | ध्रुव तारा | Bhagavata Purana 4.8-4.12 | आसमान का एक तारा कभी अपनी जगह से क्यों नहीं हिलता?
