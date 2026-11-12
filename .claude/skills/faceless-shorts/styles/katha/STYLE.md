@@ -6,11 +6,11 @@ Example: `example/` = **समुद्र मंथन: विष से अम
 Engine, kit and caption strip are Paper Atlas's (read `../paper-atlas/STYLE.md` too); this file lists what's different.
 
 ## 1. Rules
-- **Length:** 60-80 s (~230-260 Hindi words at speed 1.3). One line = one cut, 1.5-3 s. Tight script: cut filler, keep only beats that move the story.
+- **Length:** 60-75 s (~250-280 Hindi words at speed 1.5). One line = one cut, 1.5-3 s. Tight script: cut filler, keep only beats that move the story.
 - **Hook first (always).** Line 0-1 = a question + "नहीं? तो आइए, मैं बताता हूँ।" e.g. "क्या आप जानते हैं, कि भगवान
   शिव का कंठ नीला क्यों है?" Pick the most surprising fact of the story for the question. Hook shots get ids H0, H1;
   the story shots use `OFF = 2` in `shots.js` so `at(i)` / `w(word, i)` count story lines from 0.
-- **Pace:** `"speed": 1.3, "lead": 0.2, "gap": 0.15, "outro": 1.0`, no gap above 0.2 (the user found 1.0 and 1.15 slow and boring). Camera always moving (`zoom` 0.1-0.14). End with a one-line lesson (सीख) that loops.
+- **Pace:** `"speed": 1.5, "lead": 0.2, "gap": 0.12, "outro": 1.0`, no gap above 0.15 (the owner approved 1.5x; 1.0 and 1.15 felt slow and boring). Camera always moving (`zoom` 0.1-0.14). End with a one-line lesson (सीख) that loops.
 - Voice `hm_omega` (Hindi male; also hm_psi, hf_alpha, hf_beta). Music `"bed"`.
 - Deities drawn simply and respectfully: no faces, halos for divine figures, no violence shown (tell it with objects).
 - Sources: name the scripture + chapter for every event in `script.json` "sources"; mark popular/folk additions as such.

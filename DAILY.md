@@ -2,8 +2,8 @@
 
 The owner wants: Hindi narration, Devanagari captions, ~90-120 s, stories of the gods from Hindu scriptures,
 hook first ("क्या आप जानते हैं, कि …? नहीं? तो आइए, मैं बताता हूँ।"), FAST pace (owner said 1.15 felt slow and boring):
-voice `"speed": 1.3, "lead": 0.2, "gap": 0.15, "outro": 1.0`, no line gap above 0.2, a new cut every 1.5-3 s, ~60-80 s total
-(~230-260 words, tight script, no filler sentences), posted automatically at 13:00 IST.
+voice `"speed": 1.5, "lead": 0.2, "gap": 0.12, "outro": 1.0` (the owner approved 1.5x on the Ganesh reel), no line gap above 0.15,
+a new cut every 1.5-3 s, ~60-75 s total (~250-280 words, tight script, no filler sentences), posted automatically at 13:00 IST.
 Do not ask the owner anything during this routine: use these defaults. If something fails, stop and report it.
 
 ## Steps
