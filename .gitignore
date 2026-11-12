@@ -2,3 +2,5 @@ projects/*/data/*.wav
 projects/*/renders/
 projects/*/review/
 __pycache__/
+projects/*/fonts/
+projects/*/data/
