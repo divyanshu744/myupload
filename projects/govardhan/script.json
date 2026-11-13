@@ -1,0 +1,147 @@
+{
+ "title": "गोवर्धन पर्वत",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Bhagavata Purana 10.24.1-38: the cowherds of Vraja prepare their yearly sacrifice to Indra for rain; the young Krishna asks Nanda what it is for, argues that the cows live on Govardhan hill and the forests, and persuades them to offer the sacrifice to the hill, the cows and the brahmins instead; the people offer heaps of food to Govardhan and circle it",
+  "Bhagavata Purana 10.25.1-33: Indra, angered, sends the Samvartaka clouds of destruction; torrents of rain, lightning and hailstones flood Vraja; the people and cows take refuge with Krishna; Krishna lifts Govardhan with one hand 'as a child lifts a mushroom' and holds it like an umbrella; for seven days he stands without moving, unconcerned by hunger or thirst; Indra's pride is broken, he withdraws the clouds, the sun comes out, and Krishna puts the hill back in its place",
+  "Bhagavata Purana 10.26.3 (Krishna was seven years old); 10.27.1-23: Indra comes in person, begs forgiveness; Surabhi, mother of cows, bathes Krishna with her milk and he is named Govinda",
+  "Holding the hill on the little finger, and Govardhan Puja / Annakut on the day after Diwali, are popular tradition"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि श्री कृष्ण ने सात दिन तक, एक पूरा पर्वत उंगली पर क्यों उठाए रखा?",
+   "caps": "क्या आप *जानते हैं | *सात दिन तक | पूरा *पर्वत | उंगली पर *क्यों?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "ब्रज में हर साल, देवराज इंद्र की पूजा होती थी,",
+   "caps": "*ब्रज में | देवराज *इंद्र की | *पूजा"
+  },
+  {
+   "text": "ताकि वर्षा हो, और खेत हरे रहें।",
+   "caps": "*वर्षा हो | खेत *हरे रहें"
+  },
+  {
+   "text": "एक बार सात साल के कान्हा ने, नंद बाबा से पूछा,",
+   "caps": "सात साल के *कान्हा | नंद *बाबा से"
+  },
+  {
+   "text": "बाबा, ये पूजा किसके लिए?",
+   "caps": "ये *पूजा | *किसके लिए?"
+  },
+  {
+   "text": "हमारी गायें तो, गोवर्धन पर्वत पर चरती हैं।",
+   "caps": "हमारी *गायें | *गोवर्धन पर्वत"
+  },
+  {
+   "text": "वही हमें घास, पानी और छाया देता है।",
+   "caps": "*घास | *पानी | और *छाया"
+  },
+  {
+   "text": "तो पूजा भी, उसी की होनी चाहिए।",
+   "caps": "पूजा भी *उसी की"
+  },
+  {
+   "text": "ब्रजवासियों ने बात मानी,",
+   "caps": "बात *मानी"
+  },
+  {
+   "text": "और गोवर्धन को, पकवानों का भोग लगाया।",
+   "caps": "पकवानों का *भोग"
+  },
+  {
+   "text": "ये देखकर इंद्र को, बहुत क्रोध आया।",
+   "caps": "*इंद्र को | बहुत *क्रोध"
+  },
+  {
+   "text": "उन्होंने प्रलय के बादल भेज दिए।",
+   "caps": "*प्रलय के | *बादल"
+  },
+  {
+   "text": "मूसलाधार वर्षा, बिजली, और ओले।",
+   "caps": "*मूसलाधार | *बिजली | और *ओले"
+  },
+  {
+   "text": "पूरा ब्रज डूबने लगा।",
+   "caps": "ब्रज *डूबने लगा"
+  },
+  {
+   "text": "सब लोग, अपनी गायों के साथ, कान्हा की शरण में आए।",
+   "caps": "अपनी *गायों के साथ | कान्हा की *शरण"
+  },
+  {
+   "text": "कान्हा मुस्कुराए,",
+   "caps": "कान्हा *मुस्कुराए"
+  },
+  {
+   "text": "और खेल खेल में, पूरा गोवर्धन पर्वत, अपनी उंगली पर उठा लिया।",
+   "caps": "*खेल खेल में | पूरा *गोवर्धन | *उंगली पर"
+  },
+  {
+   "text": "पर्वत बन गया, एक विशाल छाता।",
+   "caps": "विशाल *छाता"
+  },
+  {
+   "text": "सारे ब्रजवासी और गायें, उसके नीचे आ गए।",
+   "caps": "सारे *ब्रजवासी | उसके *नीचे"
+  },
+  {
+   "text": "सात दिन, सात रात, वर्षा होती रही।",
+   "caps": "*सात दिन | सात *रात"
+  },
+  {
+   "text": "पर कान्हा ने पर्वत, ज़रा भी नहीं हिलाया।",
+   "caps": "ज़रा भी *नहीं | *हिलाया"
+  },
+  {
+   "text": "न भूख, न प्यास, न थकान।",
+   "caps": "न *भूख | न *प्यास | न *थकान"
+  },
+  {
+   "text": "आखिर इंद्र का घमंड टूट गया।",
+   "caps": "इंद्र का *घमंड | *टूट गया"
+  },
+  {
+   "text": "बादल लौट गए, और धूप निकल आई।",
+   "caps": "बादल *लौट गए | *धूप निकल आई"
+  },
+  {
+   "text": "कान्हा ने पर्वत को, धीरे से वापस रख दिया।",
+   "caps": "धीरे से *वापस"
+  },
+  {
+   "text": "फिर इंद्र स्वयं आए, और हाथ जोड़कर क्षमा माँगी।",
+   "caps": "इंद्र *स्वयं आए | *क्षमा माँगी"
+  },
+  {
+   "text": "सुरभि गाय ने, कान्हा का अभिषेक किया,",
+   "caps": "*सुरभि गाय ने | *अभिषेक किया"
+  },
+  {
+   "text": "और उन्हें नाम मिला, गोविंद।",
+   "caps": "*नाम मिला | *गोविंद"
+  },
+  {
+   "text": "इसीलिए दीवाली के अगले दिन, हम गोवर्धन पूजा करते हैं।",
+   "caps": "दीवाली के *अगले दिन | *गोवर्धन पूजा"
+  },
+  {
+   "text": "याद रखिए, घमंड कितना भी बड़ा हो,",
+   "caps": "*घमंड | कितना भी *बड़ा हो"
+  },
+  {
+   "text": "जो भगवान की शरण में है, उसे कोई नहीं डुबो सकता।",
+   "caps": "भगवान की *शरण | कोई नहीं *डुबो सकता",
+   "gap": 0.15
+  }
+ ]
+}
