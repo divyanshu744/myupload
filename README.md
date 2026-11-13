@@ -11,6 +11,7 @@ Everything is made in code: cut-paper style animation (canvas + headless Chrome)
 
 ## The owner's preferences (keep these)
 - Hindi narration, Devanagari captions, exactly one red word per caption.
+- Topics: mostly the **Ramayana**, mostly **little-known facts** (what Valmiki actually says vs popular versions).
 - Always start with the hook: "क्या आप जानते हैं, कि …? नहीं? तो आइए, मैं बताता हूँ।"
 - **Fast**: voice speed **1.5x** (1.0 and 1.15 were "boring"), short pauses, a new scene every 1.5-3 s.
 - Every fact from a named scripture + chapter (listed in each project's `script.json` "sources"). Deities drawn with
