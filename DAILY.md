@@ -10,7 +10,8 @@ Do not ask the owner anything during this routine: use these defaults. If someth
 1. Setup: `CHROME=/opt/pw-browsers/chromium bash .claude/skills/faceless-shorts/scripts/setup.sh` (Whisper may fail on
    the network: that's fine, words.py falls back to line times). Read `.claude/skills/faceless-shorts/SKILL.md` and
    `styles/katha/STYLE.md` + `styles/paper-atlas/STYLE.md` in full, and `projects/samudra-manthan/src/shots.js` as the model.
-2. Pick the first unticked story in `STORIES.md`. `D` = TOMORROW's date in IST (YYYY-MM-DD): each run makes the next day's reel,
+2. Pick the first unticked story in `STORIES.md` (owner's focus: mostly Ramayana, little-known facts; see the note at
+   the top of STORIES.md: say what the scripture actually says, and flag folk versions with "मान्यता है"). `D` = TOMORROW's date in IST (YYYY-MM-DD): each run makes the next day's reel,
    so there is always a one-day buffer. If Metricool already has an Instagram post scheduled on D, use the next free day.
 3. `bash .claude/skills/faceless-shorts/scripts/new_video.sh katha <slug> --dir projects`, write `script.json`
    (2 hook lines + story, ~280-300 words, sources with chapter refs, one crimson word per caption), voice.py, words.py.
