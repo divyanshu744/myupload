@@ -1,0 +1,137 @@
+{
+ "title": "लक्ष्मण रेखा का सच",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Aranya Kanda 42-43: the golden deer appears near the Panchavati hermitage; Sita asks Rama for it; Rama goes after it and tells Lakshmana to guard Sita",
+  "Valmiki Ramayana, Aranya Kanda 44: the deer is the rakshasa Maricha; struck by Rama's arrow, he cries out in Rama's voice 'Ha Sita! Ha Lakshmana!'",
+  "Valmiki Ramayana, Aranya Kanda 45: Sita, frightened, urges Lakshmana to go; he says no one in the three worlds (devas, gandharvas, rakshasas...) can defeat Rama and that the voice is rakshasa illusion; Sita speaks harsh words; Lakshmana, hurt, joins his palms, says 'may the deities of the forest protect you' and leaves, looking back at Sita again and again. No line is drawn in this sarga",
+  "Valmiki Ramayana, Aranya Kanda 46: Ravana comes in the guise of a wandering ascetic (parivrajaka); Sita receives him as a guest and offers him a seat and water",
+  "Ramcharitmanas (Tulsidas), Lanka Kanda, Mandodari's counsel to Ravana (around doha 35-36): 'रामानुज लघु रेख खचाई। सोउ नहिं नाघेहु असि मनुसाई॥' (Rama's younger brother drew a small line and you could not even cross that). The Aranya Kanda scene of the Manas does not describe the line",
+  "The 'magic line that burns whoever crosses it' is later folk tradition and popular retellings / TV serials"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि वाल्मीकि रामायण में, लक्ष्मण रेखा है ही नहीं?",
+   "caps": "क्या आप *जानते हैं | *वाल्मीकि रामायण में | लक्ष्मण *रेखा | है ही *नहीं?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "पंचवटी में, एक सुनहरा हिरण दिखा।",
+   "caps": "*पंचवटी में | *सुनहरा हिरण"
+  },
+  {
+   "text": "सीता जी ने कहा, मुझे ये हिरण चाहिए।",
+   "caps": "सीता *जी ने | *हिरण चाहिए"
+  },
+  {
+   "text": "राम उसके पीछे गए, और लक्ष्मण को, सीता की रक्षा सौंप गए।",
+   "caps": "राम *पीछे गए | *लक्ष्मण को | सीता की *रक्षा"
+  },
+  {
+   "text": "पर वो हिरण असल में, मायावी राक्षस मारीच था।",
+   "caps": "*असल में | राक्षस *मारीच"
+  },
+  {
+   "text": "राम का बाण लगा, तो उसने राम की आवाज़ में पुकारा,",
+   "caps": "राम का *बाण | राम की *आवाज़ में"
+  },
+  {
+   "text": "हा सीते! हा लक्ष्मण!",
+   "caps": "हा *सीते! | हा *लक्ष्मण!"
+  },
+  {
+   "text": "सीता जी घबरा गईं, और बोलीं, जाओ, भाई को बचाओ।",
+   "caps": "सीता जी *घबरा गईं | *जाओ | भाई को *बचाओ"
+  },
+  {
+   "text": "लक्ष्मण ने कहा, राम को तीनों लोकों में, कोई नहीं हरा सकता।",
+   "caps": "*तीनों लोकों में | कोई नहीं *हरा सकता"
+  },
+  {
+   "text": "ये आवाज़, राक्षस की माया है।",
+   "caps": "राक्षस की *माया"
+  },
+  {
+   "text": "पर सीता जी ने, गुस्से में, बहुत कठोर बातें कह दीं।",
+   "caps": "*गुस्से में | बहुत *कठोर बातें"
+  },
+  {
+   "text": "लक्ष्मण का मन दुखी हुआ।",
+   "caps": "मन *दुखी हुआ"
+  },
+  {
+   "text": "उन्होंने हाथ जोड़कर कहा, वन के देवता, आपकी रक्षा करें।",
+   "caps": "हाथ *जोड़कर | वन के *देवता | आपकी *रक्षा करें"
+  },
+  {
+   "text": "और वो चले गए। बस इतना ही।",
+   "caps": "वो *चले गए | बस *इतना ही"
+  },
+  {
+   "text": "पर जाते जाते भी, बार बार मुड़कर, सीता जी को देखते रहे।",
+   "caps": "बार बार *मुड़कर | सीता जी को *देखते रहे"
+  },
+  {
+   "text": "न कोई रेखा खींची, न कोई मंत्र पढ़ा।",
+   "caps": "न कोई *रेखा | न कोई *मंत्र"
+  },
+  {
+   "text": "अरण्य कांड के सर्ग पैंतालीस में, कोई लक्ष्मण रेखा नहीं है।",
+   "caps": "*अरण्य कांड | सर्ग *पैंतालीस | कोई *रेखा नहीं"
+  },
+  {
+   "text": "फिर रावण, एक संन्यासी के वेश में आया,",
+   "caps": "फिर *रावण | *संन्यासी के वेश में"
+  },
+  {
+   "text": "और सीता जी ने, उसे अतिथि समझकर, आसन और जल दिया।",
+   "caps": "*अतिथि समझकर | आसन और *जल"
+  },
+  {
+   "text": "तो लक्ष्मण रेखा आई कहाँ से?",
+   "caps": "लक्ष्मण *रेखा | आई *कहाँ से?"
+  },
+  {
+   "text": "तुलसीदास जी की रामचरितमानस में,",
+   "caps": "*तुलसीदास जी की | *रामचरितमानस में"
+  },
+  {
+   "text": "लंका कांड में, मंदोदरी, रावण को ताना देती हैं,",
+   "caps": "*लंका कांड में | *मंदोदरी | रावण को *ताना"
+  },
+  {
+   "text": "रामानुज लघु रेख खचाई, सोउ नहिं नाघेहु असि मनुसाई।",
+   "caps": "*रामानुज | लघु *रेख खचाई | *सोउ नहिं नाघेहु"
+  },
+  {
+   "text": "यानी, तुम लक्ष्मण की खींची, एक छोटी सी रेखा भी, पार न कर सके।",
+   "caps": "लक्ष्मण की *खींची | छोटी सी *रेखा | पार न *कर सके"
+  },
+  {
+   "text": "बाद की कथाओं और टीवी ने, इसे एक जादुई रेखा बना दिया।",
+   "caps": "बाद की *कथाओं | और *टीवी ने | *जादुई रेखा"
+  },
+  {
+   "text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।",
+   "caps": "क्या आपको *पता था? | *कमेंट में बताइए"
+  },
+  {
+   "text": "तो अगली बार कोई लक्ष्मण रेखा कहे,",
+   "caps": "अगली *बार | *लक्ष्मण रेखा"
+  },
+  {
+   "text": "तो याद रखिए, वाल्मीकि ने क्या लिखा था।",
+   "caps": "याद *रखिए | *वाल्मीकि ने | क्या *लिखा था",
+   "gap": 0.15
+  }
+ ]
+}

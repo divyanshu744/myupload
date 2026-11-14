@@ -11,7 +11,7 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] samudra-manthan | समुद्र मंथन: विष से अमृत तक | Bhagavata Purana 8.5-8.9, Vishnu Purana 1.9 | शिव का कंठ नीला क्यों है? (posted 2026-11-12)
 - [x] ganesh-parikrama | गणेश जी की परिक्रमा | Shiva Purana (Rudra Samhita, Kumara Khanda) / popular tradition | गणेश जी ने बिना दौड़े पूरी दुनिया की परिक्रमा कैसे जीती? (posted 2026-11-13)
 - [x] govardhan | गोवर्धन पर्वत | Bhagavata Purana 10.24-25 | कृष्ण ने सात दिन तक एक पूरा पर्वत उंगली पर क्यों उठाए रखा? (posted 2026-11-14)
-- [ ] lakshman-rekha | लक्ष्मण रेखा का सच | Valmiki Ramayana, Aranya Kanda 45 (no rekha); later retellings | क्या आप जानते हैं, कि वाल्मीकि रामायण में लक्ष्मण रेखा है ही नहीं?
+- [x] lakshman-rekha | लक्ष्मण रेखा का सच | Valmiki Ramayana, Aranya Kanda 45 (no rekha); later retellings | क्या आप जानते हैं, कि वाल्मीकि रामायण में लक्ष्मण रेखा है ही नहीं? (posted 2026-11-15)
 - [ ] ahalya | अहल्या पत्थर नहीं बनी थीं | Valmiki Ramayana, Bala Kanda 48-49 | क्या आप जानते हैं, कि वाल्मीकि रामायण में अहल्या पत्थर नहीं बनी थीं?
 - [ ] bal-hanuman-surya | हनुमान नाम कैसे पड़ा | Valmiki Ramayana, Kishkindha Kanda 66 | क्या आप जानते हैं, कि "हनुमान" नाम एक चोट से पड़ा?
 - [ ] shiv-dhanush | शिव धनुष कितना भारी था | Valmiki Ramayana, Bala Kanda 66-67 | क्या आप जानते हैं, कि शिव धनुष को पाँच हज़ार लोग आठ पहियों की गाड़ी पर खींचकर लाए थे?
