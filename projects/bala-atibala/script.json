@@ -1,0 +1,43 @@
+{
+ "title": "बला और अतिबला मंत्र",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Bala Kanda 18.38-58 and 19: the sage Vishwamitra arrives at King Dasharatha's court and asks for Rama, to protect his sacrifice from the rakshasas Maricha and Subahu who defile it",
+  "Valmiki Ramayana, Bala Kanda 20.2: Dasharatha refuses at first: 'my lotus-eyed Rama is not yet sixteen years old' (unashodasha-varsho me Ramah)",
+  "Valmiki Ramayana, Bala Kanda 21-22.1-9: on Vasishtha's advice Dasharatha sends Rama with Lakshmana; they walk behind the sage",
+  "Valmiki Ramayana, Bala Kanda 22.10-20: after going one and a half yojanas, on the southern bank of the Sarayu, Vishwamitra tells Rama to take water (achamana) and receive the mantras Bala and Atibala: no fatigue, no fever, no change of form; rakshasas cannot overpower him asleep or off guard; no one on earth equal to his strength of arms; no hunger or thirst. The two vidyas are daughters of Pitamaha (Brahma). Rama, purified, receives them with joined hands and shines like the thousand-rayed sun in autumn (sharadi iva divakarah)",
+  "Valmiki Ramayana, Bala Kanda 22.21-23: they spend the night on the bank of the Sarayu on beds of grass, unaccustomed to such beds",
+  "Valmiki Ramayana, Bala Kanda 23.2: at dawn Vishwamitra wakes Rama: 'Kausalya supraja Rama purva sandhya pravartate, uttishtha narashardula kartavyam daivam ahnikam'",
+  "Sri Venkatesha Suprabhatam (Prativadi Bhayankaram Annan, 15th c.): its first verse is this same Valmiki shloka (Bala Kanda 23.2)"
+ ],
+ "lines": [
+  {"text": "क्या आप जानते हैं, कि विश्वामित्र ने राम को, ऐसा मंत्र दिया था, जिससे भूख और प्यास ही न लगे?",
+   "caps": "क्या आप *जानते हैं | *विश्वामित्र ने राम को | ऐसा *मंत्र दिया था | जिससे *भूख और प्यास | ही न *लगे?"},
+  {"text": "नहीं? तो आइए, मैं बताता हूँ।", "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ", "gap": 0.15},
+  {"text": "एक दिन, ऋषि विश्वामित्र, राजा दशरथ के दरबार में आए।", "caps": "एक दिन *विश्वामित्र | राजा *दशरथ के | *दरबार में आए"},
+  {"text": "उन्होंने कहा, मेरे यज्ञ को राक्षस बिगाड़ते हैं, उनसे रक्षा के लिए, मुझे राम चाहिए।", "caps": "मेरे *यज्ञ को | *राक्षस बिगाड़ते हैं | रक्षा के लिए | मुझे *राम चाहिए"},
+  {"text": "दशरथ डर गए, बोले, मेरा राम तो अभी, सोलह साल का भी नहीं है!", "caps": "दशरथ *डर गए | मेरा *राम तो अभी | *सोलह साल का भी नहीं है!"},
+  {"text": "पर गुरु वसिष्ठ के समझाने पर, उन्होंने राम और लक्ष्मण को, ऋषि के साथ भेज दिया।", "caps": "गुरु *वसिष्ठ के समझाने पर | *राम और लक्ष्मण को | ऋषि के साथ *भेज दिया"},
+  {"text": "डेढ़ योजन चलकर, वे सरयू नदी के, दक्षिणी किनारे पहुँचे।", "caps": "*डेढ़ योजन चलकर | वे *सरयू नदी के | दक्षिणी *किनारे पहुँचे"},
+  {"text": "वहाँ विश्वामित्र ने कहा, राम, जल से आचमन करो,", "caps": "वहाँ *विश्वामित्र ने कहा | राम, *जल से | *आचमन करो"},
+  {"text": "मैं तुम्हें दो विद्याएँ दूँगा, बला और अतिबला।", "caps": "मैं तुम्हें *दो विद्याएँ दूँगा | *बला | और *अतिबला"},
+  {"text": "इनसे तुम्हें न थकान होगी, न बुखार,", "caps": "इनसे तुम्हें न *थकान होगी | न *बुखार"},
+  {"text": "न तुम्हारा रूप बिगड़ेगा, और सोते हुए भी, कोई राक्षस तुम्हें हरा नहीं पाएगा।", "caps": "न तुम्हारा *रूप बिगड़ेगा | और *सोते हुए भी | कोई *राक्षस | तुम्हें *हरा नहीं पाएगा"},
+  {"text": "और सबसे बड़ी बात, तुम्हें कभी भूख और प्यास नहीं लगेगी!", "caps": "और सबसे *बड़ी बात | तुम्हें कभी *भूख और प्यास | नहीं *लगेगी!"},
+  {"text": "बाहुबल में, धरती पर कोई तुम्हारे बराबर नहीं होगा।", "caps": "*बाहुबल में | *धरती पर कोई | तुम्हारे *बराबर नहीं होगा"},
+  {"text": "ये दोनों विद्याएँ, स्वयं ब्रह्मा जी की पुत्रियाँ हैं।", "caps": "ये दोनों *विद्याएँ | स्वयं *ब्रह्मा जी की | *पुत्रियाँ हैं"},
+  {"text": "राम ने आचमन किया, और हाथ जोड़कर, दोनों मंत्र ग्रहण किए।", "caps": "राम ने *आचमन किया | और *हाथ जोड़कर | दोनों *मंत्र ग्रहण किए"},
+  {"text": "मंत्र मिलते ही, राम ऐसे चमके, जैसे शरद ऋतु का सूरज!", "caps": "मंत्र *मिलते ही | राम ऐसे *चमके | जैसे शरद ऋतु का *सूरज!"},
+  {"text": "महलों में पले राम और लक्ष्मण, उस रात, सरयू किनारे घास पर सोए।", "caps": "*महलों में पले | राम और *लक्ष्मण | उस *रात | सरयू किनारे *घास पर सोए"},
+  {"text": "अगली सुबह, विश्वामित्र ने राम को, इन शब्दों से जगाया,", "caps": "अगली *सुबह | विश्वामित्र ने *राम को | इन *शब्दों से जगाया"},
+  {"text": "कौसल्या सुप्रजा राम, पूर्वा संध्या प्रवर्तते!", "caps": "*कौसल्या सुप्रजा राम | *पूर्वा संध्या प्रवर्तते!"},
+  {"text": "जी हाँ, यही श्लोक आज, वेंकटेश सुप्रभातम् की, पहली पंक्ति है!", "caps": "जी हाँ, यही *श्लोक आज | *वेंकटेश सुप्रभातम् की | *पहली पंक्ति है!"},
+  {"text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।", "caps": "क्या आपको *पता था? | *कमेंट में बताइए"},
+  {"text": "सीख यही है, गुरु का दिया ज्ञान, सबसे बड़ी शक्ति है।", "caps": "*सीख यही है | गुरु का दिया *ज्ञान | सबसे बड़ी *शक्ति है", "gap": 0.15}
+ ]
+}

@@ -16,7 +16,7 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] bal-hanuman-surya | हनुमान नाम कैसे पड़ा | Valmiki Ramayana, Kishkindha Kanda 66 | क्या आप जानते हैं, कि "हनुमान" नाम एक चोट से पड़ा? (posted 2026-12-13)
 - [x] shiv-dhanush | शिव धनुष कितना भारी था | Valmiki Ramayana, Bala Kanda 66-67 | क्या आप जानते हैं, कि शिव धनुष को पाँच हज़ार लोग आठ पहियों की गाड़ी पर खींचकर लाए थे? (posted 2026-12-14)
 - [x] sumitra-twins | लक्ष्मण और शत्रुघ्न जुड़वाँ क्यों | Valmiki Ramayana, Bala Kanda 16 | क्या आप जानते हैं, कि लक्ष्मण और शत्रुघ्न जुड़वाँ भाई थे? (posted 2026-12-15)
-- [ ] bala-atibala | बला और अतिबला मंत्र | Valmiki Ramayana, Bala Kanda 22 | क्या आप जानते हैं, विश्वामित्र ने राम को ऐसा मंत्र दिया जिससे भूख-प्यास न लगे?
+- [x] bala-atibala | बला और अतिबला मंत्र | Valmiki Ramayana, Bala Kanda 22 | क्या आप जानते हैं, विश्वामित्र ने राम को ऐसा मंत्र दिया जिससे भूख-प्यास न लगे? (posted 2026-12-16)
 - [ ] kaikeyi-vardan | कैकेयी के दो वरदान कहाँ से आए | Valmiki Ramayana, Ayodhya Kanda 9 | क्या आप जानते हैं, कैकेयी को दो वरदान एक युद्ध में मिले थे?
 - [ ] ravan-naam | रावण नाम कैसे पड़ा | Valmiki Ramayana, Uttara Kanda 16 | क्या आप जानते हैं, "रावण" नाम शिव जी ने दिया था?
 - [ ] kumbhakarna-vardan | कुंभकर्ण की नींद का राज़ | Valmiki Ramayana, Uttara Kanda 10 | क्या आप जानते हैं, कुंभकर्ण ने नींद माँगी नहीं थी?
