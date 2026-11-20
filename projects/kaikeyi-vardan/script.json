@@ -1,0 +1,39 @@
+{
+ "title": "कैकेयी के दो वरदान कहाँ से आए",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Ayodhya Kanda 7-8: on the eve of Rama's coronation the maid Manthara sees Ayodhya decorated, learns of it and goes to Kaikeyi",
+  "Valmiki Ramayana, Ayodhya Kanda 9.11-17: Manthara reminds Kaikeyi: in the war of the gods and asuras, Dasharatha went with her to the south, to Vaijayanta near the Dandaka forest, to help Indra against the asura Timidhvaja, known as Shambara. At night the asuras struck the sleeping warriors; Dasharatha fought, was badly wounded by weapons and lost consciousness; Kaikeyi carried him away from the battle and protected him. Pleased, he gave her two boons, and she said she would ask for them when she wished",
+  "Valmiki Ramayana, Ayodhya Kanda 9.20-25 and 9.40-60: Manthara says now is the time to ask: Bharata's coronation and fourteen years' exile for Rama; Kaikeyi goes to the krodhagara (anger chamber), throws off her ornaments and lies on the bare floor",
+  "Valmiki Ramayana, Ayodhya Kanda 10-11: Dasharatha finds her there and swears by Rama to grant her wish; she then names the two boons",
+  "Folk / later tradition (not in Valmiki): Kaikeyi put her finger in place of a broken chariot axle-pin (or held the wheel) to save Dasharatha in the battle. Said in the reel with मान्यता है and contrasted with Valmiki"
+ ],
+ "lines": [
+  {"text": "क्या आप जानते हैं, कि कैकेयी को दो वरदान, एक युद्ध में मिले थे?",
+   "caps": "क्या आप *जानते हैं | *कैकेयी को | *दो वरदान | एक *युद्ध में मिले थे?"},
+  {"text": "नहीं? तो आइए, मैं बताता हूँ।", "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ", "gap": 0.15},
+  {"text": "राम के राज्याभिषेक से एक रात पहले, दासी मंथरा, रानी कैकेयी के पास पहुँची।", "caps": "राम के *राज्याभिषेक से | एक *रात पहले | दासी *मंथरा | रानी *कैकेयी के पास पहुँची"},
+  {"text": "उसने याद दिलाया, बरसों पहले, देवताओं और असुरों में, भयंकर युद्ध हुआ था।", "caps": "उसने *याद दिलाया | *बरसों पहले | *देवताओं और असुरों में | भयंकर *युद्ध हुआ था"},
+  {"text": "दक्षिण में, शंबर नाम का असुर, इंद्र से लड़ रहा था।", "caps": "*दक्षिण में | *शंबर नाम का असुर | *इंद्र से लड़ रहा था"},
+  {"text": "इंद्र की मदद के लिए, राजा दशरथ गए, और साथ में थीं, रानी कैकेयी।", "caps": "इंद्र की *मदद के लिए | राजा *दशरथ गए | और *साथ में थीं | रानी *कैकेयी"},
+  {"text": "रात में असुरों ने हमला किया, और दशरथ, अस्त्रों से घायल होकर, बेहोश हो गए।", "caps": "*रात में | असुरों ने *हमला किया | अस्त्रों से *घायल होकर | *बेहोश हो गए"},
+  {"text": "तब कैकेयी, उन्हें युद्ध से दूर ले गईं, और उनके प्राण बचाए।", "caps": "तब *कैकेयी | उन्हें युद्ध से *दूर ले गईं | और उनके *प्राण बचाए"},
+  {"text": "होश आने पर, खुश होकर दशरथ बोले, माँगो, दो वरदान!", "caps": "*होश आने पर | खुश होकर *दशरथ बोले | माँगो, *दो वरदान!"},
+  {"text": "कैकेयी ने कहा, अभी नहीं, जब ज़रूरत होगी, तब माँग लूँगी।", "caps": "कैकेयी ने कहा, *अभी नहीं | जब *ज़रूरत होगी | तब *माँग लूँगी"},
+  {"text": "मंथरा बोली, यही समय है, वो दोनों वरदान माँगने का!", "caps": "*मंथरा बोली | यही *समय है | वो दोनों *वरदान माँगने का!"},
+  {"text": "कैकेयी ने गहने फेंके, और कोप भवन में, ज़मीन पर लेट गईं।", "caps": "कैकेयी ने *गहने फेंके | और *कोप भवन में | *ज़मीन पर लेट गईं"},
+  {"text": "दशरथ आए, तो उसने राम की शपथ दिलाई, और दोनों वरदान माँग लिए।", "caps": "*दशरथ आए | राम की *शपथ दिलाई | दोनों *वरदान माँग लिए"},
+  {"text": "पहला, भरत का राज्याभिषेक, और दूसरा, राम को चौदह साल का वनवास।", "caps": "*पहला | *भरत का राज्याभिषेक | और *दूसरा | राम को *चौदह साल का वनवास"},
+  {"text": "अब सुनिए, मान्यता है, कि कैकेयी ने, रथ के पहिए में उंगली लगाकर, राजा को बचाया था।", "caps": "अब *सुनिए | *मान्यता है | कि *कैकेयी ने | रथ के *पहिए में उंगली लगाकर | राजा को *बचाया था"},
+  {"text": "पर वाल्मीकि रामायण में, उंगली वाली ये बात है ही नहीं!", "caps": "पर *वाल्मीकि रामायण में | *उंगली वाली ये बात | है ही *नहीं!"},
+  {"text": "वहाँ लिखा है, कि कैकेयी, घायल राजा को, युद्ध से बचाकर ले गईं।", "caps": "वहाँ *लिखा है | कि *कैकेयी | *घायल राजा को | युद्ध से *बचाकर ले गईं"},
+  {"text": "यानी जिन वरदानों से राम वन गए, वो कैकेयी की बहादुरी का इनाम थे!", "caps": "यानी जिन *वरदानों से | राम *वन गए | वो कैकेयी की *बहादुरी का | *इनाम थे!"},
+  {"text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।", "caps": "क्या आपको *पता था? | *कमेंट में बताइए"},
+  {"text": "सीख यही है, गलत सलाह, अच्छे मन को भी बदल देती है।", "caps": "*सीख यही है | गलत *सलाह | अच्छे *मन को भी | *बदल देती है", "gap": 0.15}
+ ]
+}
