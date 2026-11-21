@@ -18,7 +18,7 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] sumitra-twins | लक्ष्मण और शत्रुघ्न जुड़वाँ क्यों | Valmiki Ramayana, Bala Kanda 16 | क्या आप जानते हैं, कि लक्ष्मण और शत्रुघ्न जुड़वाँ भाई थे? (posted 2026-12-15)
 - [x] bala-atibala | बला और अतिबला मंत्र | Valmiki Ramayana, Bala Kanda 22 | क्या आप जानते हैं, विश्वामित्र ने राम को ऐसा मंत्र दिया जिससे भूख-प्यास न लगे? (posted 2026-12-16)
 - [x] kaikeyi-vardan | कैकेयी के दो वरदान कहाँ से आए | Valmiki Ramayana, Ayodhya Kanda 9 | क्या आप जानते हैं, कैकेयी को दो वरदान एक युद्ध में मिले थे? (posted 2026-12-17)
-- [ ] ravan-naam | रावण नाम कैसे पड़ा | Valmiki Ramayana, Uttara Kanda 16 | क्या आप जानते हैं, "रावण" नाम शिव जी ने दिया था?
+- [x] ravan-naam | रावण नाम कैसे पड़ा | Valmiki Ramayana, Uttara Kanda 16 | क्या आप जानते हैं, "रावण" नाम शिव जी ने दिया था? (posted 2026-12-18)
 - [ ] kumbhakarna-vardan | कुंभकर्ण की नींद का राज़ | Valmiki Ramayana, Uttara Kanda 10 | क्या आप जानते हैं, कुंभकर्ण ने नींद माँगी नहीं थी?
 - [ ] sampati | जटायु के भाई संपाति | Valmiki Ramayana, Kishkindha Kanda 56-63 | क्या आप जानते हैं, सीता जी का पता जटायु के भाई ने बताया था?
 - [ ] nala-setu | राम सेतु किसने बनाया | Valmiki Ramayana, Yuddha Kanda 22 | क्या आप जानते हैं, राम सेतु सिर्फ़ पाँच दिन में बना था?

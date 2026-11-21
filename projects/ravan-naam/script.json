@@ -1,0 +1,43 @@
+{
+ "title": "रावण नाम कैसे पड़ा",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Uttara Kanda 9: born to the sage Vishrava and Kaikasi with ten heads, the child is named Dashagriva by his father",
+  "Valmiki Ramayana, Uttara Kanda 14-15: Dashagriva defeats his half-brother Kubera (Vaishravana) and takes the Pushpaka vimana",
+  "Valmiki Ramayana, Uttara Kanda 16.1-16: over the Sharavana forest, near the mountain where Shiva sports, the Pushpaka stops moving; Nandishvara, Shiva's attendant (described as dark, dwarfish, monkey-faced), tells him to turn back; Dashagriva laughs at his monkey face; Nandi curses him that monkeys of his own form and strength will destroy his race",
+  "Valmiki Ramayana, Uttara Kanda 16.17-27: in anger he thrusts his arms under the mountain and lifts it; the mountain shakes, Parvati clings to Shiva; Shiva, as if in play, presses the mountain down with his big toe, crushing his arms; he lets out a terrible cry that shakes the three worlds",
+  "Valmiki Ramayana, Uttara Kanda 16.28-39: on his ministers' advice he praises Shiva with hymns, weeping, for a thousand years; Shiva, pleased, frees his arms and says: since you made the three worlds cry out in fear (ravita), your name will be Ravana",
+  "Valmiki Ramayana, Uttara Kanda 16.43: Shiva also gives him the sword Chandrahasa",
+  "Popular / later tradition (not in Valmiki): Ravana composed the Shiva Tandava Stotram while pinned under the mountain. Said in the reel with मान्यता है and contrasted with Valmiki",
+  "Nandi's curse fulfilled by Rama's vanara army: Uttara Kanda 16 (curse) with the war in Yuddha Kanda"
+ ],
+ "lines": [
+  {"text": "क्या आप जानते हैं, कि रावण नाम, खुद भगवान शिव ने दिया था?",
+   "caps": "क्या आप *जानते हैं | *रावण नाम | खुद *भगवान शिव ने | *दिया था?"},
+  {"text": "नहीं? तो आइए, मैं बताता हूँ।", "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ", "gap": 0.15},
+  {"text": "जन्म के समय उसके दस सिर थे, इसलिए पिता विश्रवा ने नाम रखा, दशग्रीव।", "caps": "जन्म के समय | उसके *दस सिर थे | पिता *विश्रवा ने | नाम रखा, *दशग्रीव"},
+  {"text": "कुबेर को हराकर, दशग्रीव ने, उनका पुष्पक विमान छीन लिया।", "caps": "कुबेर को *हराकर | *दशग्रीव ने | उनका *पुष्पक विमान | *छीन लिया"},
+  {"text": "एक दिन, पुष्पक, शिव जी के पर्वत के ऊपर, अचानक रुक गया।", "caps": "एक दिन, *पुष्पक | शिव जी के *पर्वत के ऊपर | अचानक *रुक गया"},
+  {"text": "तभी शिव जी के गण, नंदीश्वर सामने आए, और बोले, लौट जाओ, यहाँ महादेव विराजमान हैं।", "caps": "तभी शिव जी के *गण | *नंदीश्वर सामने आए | और बोले, *लौट जाओ | यहाँ *महादेव विराजमान हैं"},
+  {"text": "नंदी का वानर जैसा मुख देखकर, दशग्रीव हँस पड़ा।", "caps": "नंदी का *वानर जैसा मुख | देखकर दशग्रीव *हँस पड़ा"},
+  {"text": "नंदी ने श्राप दिया, मेरे जैसे वानर ही, तुम्हारे कुल का नाश करेंगे!", "caps": "नंदी ने *श्राप दिया | मेरे जैसे *वानर ही | तुम्हारे *कुल का | *नाश करेंगे!"},
+  {"text": "गुस्से में दशग्रीव ने, अपनी भुजाएँ पर्वत के नीचे डालीं, और उसे उठाने लगा।", "caps": "गुस्से में *दशग्रीव ने | अपनी *भुजाएँ | पर्वत के *नीचे डालीं | और उसे *उठाने लगा"},
+  {"text": "पूरा पर्वत हिल गया, और माता पार्वती ने, शिव जी को थाम लिया।", "caps": "पूरा पर्वत *हिल गया | और माता *पार्वती ने | शिव जी को *थाम लिया"},
+  {"text": "तब महादेव ने, खेल-खेल में, बस पैर का अँगूठा दबाया।", "caps": "तब *महादेव ने | *खेल-खेल में | बस पैर का *अँगूठा दबाया"},
+  {"text": "दशग्रीव की भुजाएँ, पर्वत के नीचे दब गईं।", "caps": "दशग्रीव की *भुजाएँ | पर्वत के नीचे *दब गईं"},
+  {"text": "दर्द से वो इतनी ज़ोर से चीखा, कि तीनों लोक काँप उठे।", "caps": "दर्द से वो इतनी *ज़ोर से चीखा | कि *तीनों लोक | *काँप उठे"},
+  {"text": "मंत्रियों की सलाह पर, उसने हज़ार साल तक, रो-रोकर शिव जी की स्तुति की।", "caps": "मंत्रियों की *सलाह पर | उसने *हज़ार साल तक | रो-रोकर शिव जी की *स्तुति की"},
+  {"text": "प्रसन्न होकर महादेव ने, भुजाएँ छोड़ दीं, और कहा,", "caps": "*प्रसन्न होकर महादेव ने | *भुजाएँ छोड़ दीं | और *कहा"},
+  {"text": "तुम्हारे राव से, यानी चीख से, तीनों लोक डर गए, इसलिए आज से तुम्हारा नाम होगा, रावण!", "caps": "तुम्हारे *राव से | यानी *चीख से | *तीनों लोक डर गए | इसलिए *आज से | तुम्हारा नाम होगा, *रावण!"},
+  {"text": "साथ में शिव जी ने उसे, चंद्रहास नाम की तलवार भी दी।", "caps": "साथ में *शिव जी ने उसे | *चंद्रहास नाम की | *तलवार भी दी"},
+  {"text": "मान्यता है, कि शिव तांडव स्तोत्र भी, रावण ने यहीं गाया था, पर वाल्मीकि रामायण में, ये स्तोत्र नहीं है।", "caps": "*मान्यता है | कि शिव *तांडव स्तोत्र भी | रावण ने *यहीं गाया था | पर *वाल्मीकि रामायण में | ये स्तोत्र *नहीं है"},
+  {"text": "और नंदी का वो श्राप? राम की वानर सेना ने, उसे सच कर दिखाया!", "caps": "और नंदी का वो *श्राप? | राम की *वानर सेना ने | उसे *सच कर दिखाया!"},
+  {"text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।", "caps": "क्या आपको *पता था? | *कमेंट में बताइए"},
+  {"text": "सीख यही है, किसी का रूप देखकर, उसका मज़ाक मत उड़ाइए।", "caps": "*सीख यही है | किसी का *रूप देखकर | उसका *मज़ाक मत उड़ाइए", "gap": 0.15}
+ ]
+}
