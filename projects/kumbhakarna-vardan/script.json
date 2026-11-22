@@ -1,0 +1,40 @@
+{
+ "title": "कुंभकर्ण की नींद का राज़",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Uttara Kanda 10.1-10: Ravana, Kumbhakarna and Vibhishana perform severe penance to please Brahma; Kumbhakarna stands amid five fires in summer, sits in the rain in the rainy season and stays in water in winter, for ten thousand years",
+  "Valmiki Ramayana, Uttara Kanda 10.11-25: Brahma appears; Ravana asks not to be killed by gods, danavas, nagas, yakshas and others (disdaining humans); Vibhishana asks that his mind always stay on dharma (and is also granted immortality)",
+  "Valmiki Ramayana, Uttara Kanda 10.26-30: as Brahma turns to Kumbhakarna, the devas plead: he has already devoured seven apsaras, ten of Indra's attendants, rishis and men; with a boon he would devour the three worlds",
+  "Valmiki Ramayana, Uttara Kanda 10.31-42: Brahma thinks of Saraswati; she enters Kumbhakarna's mouth; he says he wishes to sleep for many years (svaptum varsanyanekani); Brahma says: so be it (tathastu)",
+  "Valmiki Ramayana, Uttara Kanda 10.43-46: Saraswati leaves; Kumbhakarna comes to himself and wonders why such words came out of his mouth, thinking he was deluded by the gods",
+  "Popular / later tradition (not in Valmiki): he meant to ask for Indrasana but said Nidrasana. Said in the reel with मान्यता है and contrasted with Valmiki",
+  "Valmiki Ramayana, Yuddha Kanda 61: Vibhishana tells Rama that Brahma made Kumbhakarna sleep, and on Ravana's plea fixed that he would sleep six months and wake for one day"
+ ],
+ "lines": [
+  {"text": "क्या आप जानते हैं, कि कुंभकर्ण ने, नींद का वरदान माँगा ही नहीं था?",
+   "caps": "क्या आप *जानते हैं | कि *कुंभकर्ण ने | *नींद का वरदान | माँगा ही *नहीं था?"},
+  {"text": "नहीं? तो आइए, मैं बताता हूँ।", "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ", "gap": 0.15},
+  {"text": "रावण, कुंभकर्ण और विभीषण, तीनों भाइयों ने, ब्रह्मा जी की घोर तपस्या की।", "caps": "*रावण, कुंभकर्ण | और *विभीषण | *तीनों भाइयों ने | *ब्रह्मा जी की | घोर *तपस्या की"},
+  {"text": "कुंभकर्ण दस हज़ार साल तक, गर्मी में आग के बीच, और सर्दी में पानी में खड़ा रहा।", "caps": "कुंभकर्ण *दस हज़ार साल तक | गर्मी में *आग के बीच | और सर्दी में *पानी में | *खड़ा रहा"},
+  {"text": "ब्रह्मा जी प्रकट हुए। रावण ने माँगा, कि देवता, दानव, कोई मुझे मार न सके।", "caps": "*ब्रह्मा जी प्रकट हुए | *रावण ने माँगा | कि *देवता, दानव | कोई मुझे *मार न सके"},
+  {"text": "विभीषण ने माँगा, कि मेरा मन, हमेशा धर्म में लगा रहे।", "caps": "*विभीषण ने माँगा | कि *मेरा मन | हमेशा *धर्म में लगा रहे"},
+  {"text": "पर जैसे ही कुंभकर्ण की बारी आई, सारे देवता घबरा गए।", "caps": "पर जैसे ही *कुंभकर्ण की | *बारी आई | सारे देवता *घबरा गए"},
+  {"text": "वो बोले, ये पहले ही, सात अप्सराओं और कितने ही ऋषियों को खा चुका है।", "caps": "वो बोले, ये *पहले ही | *सात अप्सराओं | और कितने ही *ऋषियों को | *खा चुका है"},
+  {"text": "अगर इसे वरदान मिला, तो ये तीनों लोक खा जाएगा!", "caps": "अगर इसे *वरदान मिला | तो ये *तीनों लोक | *खा जाएगा!"},
+  {"text": "तब ब्रह्मा जी ने, देवी सरस्वती को याद किया।", "caps": "तब *ब्रह्मा जी ने | देवी *सरस्वती को | *याद किया"},
+  {"text": "सरस्वती जी, कुंभकर्ण के मुख में प्रवेश कर गईं।", "caps": "*सरस्वती जी | कुंभकर्ण के *मुख में | *प्रवेश कर गईं"},
+  {"text": "और कुंभकर्ण के मुँह से निकला, मुझे बहुत सालों तक सोना है!", "caps": "और कुंभकर्ण के *मुँह से निकला | मुझे *बहुत सालों तक | *सोना है!"},
+  {"text": "ब्रह्मा जी ने तुरंत कहा, तथास्तु!", "caps": "ब्रह्मा जी ने *तुरंत कहा | *तथास्तु!"},
+  {"text": "सरस्वती जी के जाते ही, कुंभकर्ण को होश आया, और वो सोचने लगा, ये मेरे मुँह से क्या निकल गया?", "caps": "सरस्वती जी के *जाते ही | कुंभकर्ण को *होश आया | और वो *सोचने लगा | ये मेरे मुँह से | *क्या निकल गया?"},
+  {"text": "मान्यता है, कि वो इंद्रासन माँगने वाला था, पर बोल गया निद्रासन। पर ये बात, वाल्मीकि रामायण में नहीं है।", "caps": "*मान्यता है | कि वो *इंद्रासन | माँगने वाला था | पर बोल गया *निद्रासन | पर ये बात | *वाल्मीकि रामायण में | *नहीं है"},
+  {"text": "और छह महीने सोना, एक दिन जागना? ये नियम, रावण की विनती पर, ब्रह्मा जी ने बाद में बनाया।", "caps": "और *छह महीने सोना | *एक दिन जागना? | ये *नियम | रावण की *विनती पर | ब्रह्मा जी ने *बाद में बनाया"},
+  {"text": "यानी देवताओं ने, बिना युद्ध लड़े, सबसे बड़े खतरे को सुला दिया!", "caps": "यानी *देवताओं ने | बिना *युद्ध लड़े | सबसे बड़े *खतरे को | *सुला दिया!"},
+  {"text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।", "caps": "क्या आपको *पता था? | *कमेंट में बताइए"},
+  {"text": "सीख यही है, नीयत बुरी हो, तो वरदान भी, सज़ा बन जाता है।", "caps": "*सीख यही है | *नीयत बुरी हो | तो *वरदान भी | *सज़ा बन जाता है", "gap": 0.15}
+ ]
+}
