@@ -20,9 +20,9 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] kaikeyi-vardan | कैकेयी के दो वरदान कहाँ से आए | Valmiki Ramayana, Ayodhya Kanda 9 | क्या आप जानते हैं, कैकेयी को दो वरदान एक युद्ध में मिले थे? (posted 2026-12-17)
 - [x] ravan-naam | रावण नाम कैसे पड़ा | Valmiki Ramayana, Uttara Kanda 16 | क्या आप जानते हैं, "रावण" नाम शिव जी ने दिया था? (posted 2026-12-18)
 - [x] kumbhakarna-vardan | कुंभकर्ण की नींद का राज़ | Valmiki Ramayana, Uttara Kanda 10 | क्या आप जानते हैं, कुंभकर्ण ने नींद माँगी नहीं थी? (posted 2026-12-19)
-- [ ] sampati | जटायु के भाई संपाति | Valmiki Ramayana, Kishkindha Kanda 56-63 | क्या आप जानते हैं, सीता जी का पता जटायु के भाई ने बताया था?
-- [ ] nala-setu | राम सेतु किसने बनाया | Valmiki Ramayana, Yuddha Kanda 22 | क्या आप जानते हैं, राम सेतु सिर्फ़ पाँच दिन में बना था?
-- [ ] hanuman-surasa | लंका के रास्ते की तीन परीक्षाएँ | Valmiki Ramayana, Sundara Kanda 1 | क्या आप जानते हैं, समुद्र पार करते हुए हनुमान जी को तीन बार रोका गया?
+- [x] sampati | जटायु के भाई संपाति | Valmiki Ramayana, Kishkindha Kanda 56-63 | क्या आप जानते हैं, सीता जी का पता जटायु के भाई ने बताया था? (skipped 2026-11-23: already in Metricool from the older batch, posting 2026-11-26)
+- [x] nala-setu | राम सेतु किसने बनाया | Valmiki Ramayana, Yuddha Kanda 22 | क्या आप जानते हैं, राम सेतु सिर्फ़ पाँच दिन में बना था? (skipped 2026-11-23: already in Metricool from the older batch, posting 2026-12-10)
+- [x] hanuman-surasa | लंका के रास्ते की तीन परीक्षाएँ | Valmiki Ramayana, Sundara Kanda 1 | क्या आप जानते हैं, समुद्र पार करते हुए हनुमान जी को तीन बार रोका गया? (posted 2026-12-20)
 - [ ] lankini | लंका की रक्षक देवी | Valmiki Ramayana, Sundara Kanda 3 | क्या आप जानते हैं, लंका की रक्षा एक देवी करती थीं?
 - [ ] kabandha | बिना सिर का राक्षस कबंध | Valmiki Ramayana, Aranya Kanda 69-73 | क्या आप जानते हैं, राम को सुग्रीव का पता एक बिना सिर वाले राक्षस ने दिया?
 - [ ] aditya-hridayam | आदित्य हृदय स्तोत्र | Valmiki Ramayana, Yuddha Kanda 105 | क्या आप जानते हैं, रावण से आख़िरी युद्ध से पहले राम को एक ऋषि ने स्तोत्र सिखाया?

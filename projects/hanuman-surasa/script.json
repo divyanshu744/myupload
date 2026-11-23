@@ -1,0 +1,101 @@
+{
+ "title": "लंका के रास्ते की तीन परीक्षाएँ",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Sundara Kanda 1.1-40: Hanuman leaps from Mount Mahendra toward Lanka, across the ocean",
+  "Valmiki Ramayana, Sundara Kanda 1.85-105: the Ocean (Sagara), remembering that it was enlarged by King Sagara of the Ikshvaku line, wants to help Rama's messenger rest, and tells the golden mountain Mainaka, hidden under the waters, to rise up",
+  "Valmiki Ramayana, Sundara Kanda 1.115-130: Mainaka tells Hanuman that when Indra was cutting off the wings of the mountains, Vayu (Maruta), Hanuman's father, flung him into the ocean and saved his wings; so he wishes to honour Vayu's son",
+  "Valmiki Ramayana, Sundara Kanda 1.131-134: Hanuman only touches the mountain with his hand: time is short, and he has promised not to stop on the way (pratijna ca maya datta na sthatavyam ihantare)",
+  "Valmiki Ramayana, Sundara Kanda 1.145-152: the devas, gandharvas, siddhas and great rishis ask Surasa, the mother of the nagas, to block his way, to learn his strength and prowess",
+  "Valmiki Ramayana, Sundara Kanda 1.153-170: Surasa says no one may pass without entering her mouth (a boon from Brahma). Hanuman grows ten yojanas, she opens her mouth twenty; it goes on until her mouth is a hundred yojanas wide; then he becomes the size of a thumb, enters her mouth and comes straight out",
+  "Valmiki Ramayana, Sundara Kanda 1.171-174: Surasa takes her own form and blesses him: go, my child, and bring Sita back to Rama",
+  "Valmiki Ramayana, Sundara Kanda 1.178-196: Simhika, a rakshasi of the ocean, seizes his shadow and halts him; Hanuman enters her open mouth, ends her (the reel does not show this), and flies out",
+  "Valmiki Ramayana, Sundara Kanda 1.197-210: Hanuman reaches the far shore near Lanka",
+  "Popular retellings / TV often show Surasa as a rakshasi; in Valmiki she is the naga mother sent by the gods as a test (she takes a fearful rakshasi form for it)"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि लंका जाते हुए, हनुमान जी को, समुद्र के ऊपर, तीन बार रोका गया था?",
+   "caps": "क्या आप *जानते हैं | कि *लंका जाते हुए | *हनुमान जी को | *समुद्र के ऊपर | *तीन बार रोका गया था?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "महेंद्र पर्वत से, हनुमान जी ने, लंका के लिए छलाँग लगाई।",
+   "caps": "*महेंद्र पर्वत से | *हनुमान जी ने | *लंका के लिए | *छलाँग लगाई"
+  },
+  {
+   "text": "समुद्र देव ने सोचा, ये श्री राम के काम से जा रहे हैं, इन्हें थोड़ा विश्राम मिले।",
+   "caps": "*समुद्र देव ने सोचा | ये श्री *राम के काम से | जा रहे *हैं | इन्हें थोड़ा *विश्राम मिले"
+  },
+  {
+   "text": "तो पानी के नीचे से, सोने का पर्वत मैनाक, ऊपर उठ आया।",
+   "caps": "तो *पानी के नीचे से | *सोने का पर्वत | *मैनाक | *ऊपर उठ आया"
+  },
+  {
+   "text": "मैनाक बोला, जब इंद्र पर्वतों के पंख काट रहे थे, तब आपके पिता वायु देव ने, मुझे समुद्र में छिपाकर बचाया था।",
+   "caps": "*मैनाक बोला | जब *इंद्र | पर्वतों के *पंख काट रहे थे | तब आपके *पिता | *वायु देव ने | मुझे *समुद्र में | *छिपाकर बचाया था"
+  },
+  {
+   "text": "पर हनुमान जी ने, बस हाथ से पर्वत को छुआ, और बोले, मैंने वचन दिया है, बीच में नहीं रुकूँगा।",
+   "caps": "पर *हनुमान जी ने | बस *हाथ से | पर्वत को *छुआ | और *बोले | मैंने *वचन दिया है | बीच में *नहीं रुकूँगा"
+  },
+  {
+   "text": "फिर देवताओं ने, उनकी शक्ति परखने के लिए, नागों की माता सुरसा को भेजा।",
+   "caps": "फिर *देवताओं ने | उनकी *शक्ति परखने के लिए | *नागों की माता | *सुरसा को भेजा"
+  },
+  {
+   "text": "सुरसा बोलीं, मेरे मुँह में आए बिना, कोई आगे नहीं जा सकता।",
+   "caps": "*सुरसा बोलीं | मेरे *मुँह में | आए *बिना | कोई *आगे नहीं जा सकता"
+  },
+  {
+   "text": "हनुमान जी दस योजन बड़े हुए, तो सुरसा ने मुँह, बीस योजन खोल दिया।",
+   "caps": "हनुमान जी *दस योजन | *बड़े हुए | तो सुरसा ने *मुँह | *बीस योजन खोल दिया"
+  },
+  {
+   "text": "ये होड़ चलती रही, और सुरसा का मुँह, सौ योजन का हो गया!",
+   "caps": "ये *होड़ चलती रही | और सुरसा का *मुँह | *सौ योजन का | *हो गया!"
+  },
+  {
+   "text": "तभी हनुमान जी, अँगूठे जितने छोटे हो गए, मुँह में गए, और पल भर में बाहर आ गए!",
+   "caps": "*तभी हनुमान जी | *अँगूठे जितने | *छोटे हो गए | *मुँह में गए | और *पल भर में | *बाहर आ गए!"
+  },
+  {
+   "text": "सुरसा प्रसन्न हुईं, और आशीर्वाद दिया, जाओ, सीता जी को ढूँढो।",
+   "caps": "सुरसा *प्रसन्न हुईं | और *आशीर्वाद दिया | *जाओ | *सीता जी को ढूँढो"
+  },
+  {
+   "text": "टीवी पर सुरसा को राक्षसी दिखाते हैं, पर वाल्मीकि रामायण में, वो नागों की माता हैं, जिन्हें देवताओं ने परीक्षा के लिए भेजा था।",
+   "caps": "*टीवी पर | सुरसा को *राक्षसी दिखाते हैं | पर *वाल्मीकि रामायण में | वो *नागों की माता हैं | जिन्हें *देवताओं ने | *परीक्षा के लिए भेजा था"
+  },
+  {
+   "text": "तीसरी बार, समुद्र की राक्षसी सिंहिका ने, उनकी परछाईं पकड़ ली!",
+   "caps": "*तीसरी बार | समुद्र की *राक्षसी | *सिंहिका ने | उनकी *परछाईं | *पकड़ ली!"
+  },
+  {
+   "text": "परछाईं पकड़ते ही, हनुमान जी हवा में रुक गए।",
+   "caps": "परछाईं *पकड़ते ही | हनुमान जी *हवा में | *रुक गए"
+  },
+  {
+   "text": "पर उन्होंने सिंहिका का अंत किया, और फिर उड़ चले, सीधे लंका के किनारे!",
+   "caps": "पर उन्होंने *सिंहिका का | *अंत किया | और फिर *उड़ चले | सीधे *लंका के किनारे!"
+  },
+  {
+   "text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।",
+   "caps": "क्या *आपको | ये *पता था? | *कमेंट में | ज़रूर *बताइए"
+  },
+  {
+   "text": "सीख यही है, आराम का लालच हो, या बड़ी रुकावट, नज़र लक्ष्य पर रखिए।",
+   "caps": "*सीख यही है | *आराम का लालच हो | या बड़ी *रुकावट | नज़र *लक्ष्य पर रखिए",
+   "gap": 0.15
+  }
+ ]
+}
