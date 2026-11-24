@@ -1,0 +1,105 @@
+{
+ "title": "लंका की रक्षक देवी",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Sundara Kanda 2.36-49: Hanuman reaches Lanka on Mount Trikuta, decides to enter only at night, and makes himself as small as a cat (prishadamshaka-matra) so the rakshasas will not notice him",
+  "Valmiki Ramayana, Sundara Kanda 2.1-20: Lanka on the peak of Trikuta, with golden walls (prakara kanchana), shining like a city of the gods",
+  "Valmiki Ramayana, Sundara Kanda 3.20-30: at the city gate, Lanka herself, the city in the form of a fearsome rakshasi, blocks his way and asks who he is; she says she is the city Lanka and guards it by Ravana's command",
+  "Valmiki Ramayana, Sundara Kanda 3.31-37: Hanuman says he wants to see the city; she angrily strikes him hard with the palm of her hand (talena)",
+  "Valmiki Ramayana, Sundara Kanda 3.38-41: Hanuman roars, folds the fingers of his LEFT hand and strikes her with the fist, holding back his anger because she is a woman (stri ca iti manyamanena natikrodhah); she falls to the ground",
+  "Valmiki Ramayana, Sundara Kanda 3.42-50: Lanka says Brahma (Svayambhu) once told her: when a vanara overpowers you by his strength, know that danger (the end) has come to the rakshasas",
+  "Valmiki Ramayana, Sundara Kanda 3.44-50: fallen, Lanka begs him to spare her (prasida, trayasva), tells him of Brahma's words, and says: enter Ravana's city and search for Sita as you wish",
+  "Valmiki Ramayana, Sundara Kanda 4.1-3: Hanuman does not go through the gate (advarena) but leaps over the city wall",
+  "Valmiki Ramayana, Sundara Kanda 4.3: entering the city, he set down his LEFT foot first, as if on the heads of his enemies (cakre'tha padam savyam ca shatrunam sa tu murdhani)",
+  "Tulsidas, Ramcharitmanas, Sundarkand (doha 3-4): the name 'Lankini' and Hanuman taking a form as small as a mosquito (masak samana) are from the Ramcharitmanas, not Valmiki"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि लंका की रक्षा, ख़ुद लंका नगरी करती थी, एक स्त्री के रूप में?",
+   "caps": "क्या आप *जानते हैं | कि लंका की *रक्षा | ख़ुद *लंका नगरी | करती *थी | एक *स्त्री के रूप में?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "समुद्र पार करके, हनुमान जी लंका पहुँचे, और रात होने का इंतज़ार किया।",
+   "caps": "*समुद्र पार करके | हनुमान जी *लंका पहुँचे | और *रात होने का | *इंतज़ार किया"
+  },
+  {
+   "text": "त्रिकूट पर्वत पर बसी, सोने की दीवारों वाली लंका, रात में भी चमक रही थी।",
+   "caps": "*त्रिकूट पर्वत पर बसी | *सोने की दीवारों वाली | *लंका | रात में भी *चमक रही थी"
+  },
+  {
+   "text": "फिर वो बिल्ली जितने छोटे हो गए, ताकि कोई राक्षस उन्हें पहचान न सके।",
+   "caps": "फिर वो *बिल्ली जितने | *छोटे हो गए | ताकि कोई *राक्षस | उन्हें *पहचान न सके"
+  },
+  {
+   "text": "नगर के द्वार पर, अचानक एक भयानक स्त्री ने, उनका रास्ता रोक लिया।",
+   "caps": "नगर के *द्वार पर | *अचानक | एक *भयानक स्त्री ने | उनका *रास्ता रोक लिया"
+  },
+  {
+   "text": "वो बोली, मैं स्वयं लंका नगरी हूँ, मेरी आज्ञा के बिना, यहाँ कोई नहीं घुस सकता।",
+   "caps": "वो *बोली | मैं *स्वयं | *लंका नगरी हूँ | मेरी *आज्ञा के बिना | यहाँ कोई *नहीं घुस सकता"
+  },
+  {
+   "text": "तुलसीदास जी ने इन्हें लंकिनी कहा, पर वाल्मीकि रामायण में, ये ख़ुद लंका नगरी हैं।",
+   "caps": "*तुलसीदास जी ने | इन्हें *लंकिनी कहा | पर *वाल्मीकि रामायण में | ये ख़ुद *लंका नगरी हैं"
+  },
+  {
+   "text": "हनुमान जी ने विनम्रता से कहा, मैं बस ये सुंदर नगर देखना चाहता हूँ।",
+   "caps": "हनुमान जी ने *विनम्रता से कहा | मैं बस ये *सुंदर नगर | *देखना चाहता हूँ"
+  },
+  {
+   "text": "पर लंका ने ग़ुस्से में, उन्हें ज़ोर से थप्पड़ मार दिया!",
+   "caps": "पर लंका ने *ग़ुस्से में | उन्हें *ज़ोर से | *थप्पड़ मार दिया!"
+  },
+  {
+   "text": "हनुमान जी ने गर्जना की, पर ये सोचकर कि वो एक स्त्री है, पूरी ताक़त नहीं लगाई।",
+   "caps": "हनुमान जी ने *गर्जना की | पर ये *सोचकर | कि वो एक *स्त्री है | *पूरी ताक़त | *नहीं लगाई"
+  },
+  {
+   "text": "बस बाएँ हाथ की मुट्ठी से, हल्का सा प्रहार किया, और वो धरती पर गिर पड़ी!",
+   "caps": "बस *बाएँ हाथ की | *मुट्ठी से | *हल्का सा प्रहार किया | और वो *धरती पर | *गिर पड़ी!"
+  },
+  {
+   "text": "वो हाथ जोड़कर बोली, हे महाबली, मुझ पर दया करो!",
+   "caps": "वो *हाथ जोड़कर बोली | हे *महाबली | मुझ पर *दया करो!"
+  },
+  {
+   "text": "फिर उसने बताया, बहुत पहले ब्रह्मा जी ने मुझसे कहा था,",
+   "caps": "फिर उसने *बताया | बहुत *पहले | *ब्रह्मा जी ने | मुझसे *कहा था"
+  },
+  {
+   "text": "जिस दिन कोई वानर तुम्हें हरा दे, समझ लेना, राक्षसों का अंत पास है!",
+   "caps": "जिस दिन कोई *वानर | तुम्हें *हरा दे | *समझ लेना | *राक्षसों का | *अंत पास है!"
+  },
+  {
+   "text": "फिर बोली, जाओ, इस नगरी में, जहाँ चाहो, सीता जी को ढूँढो।",
+   "caps": "फिर *बोली | *जाओ | इस *नगरी में | *जहाँ चाहो | *सीता जी को ढूँढो"
+  },
+  {
+   "text": "पर हनुमान जी द्वार से नहीं गए, दीवार फाँदकर, अंदर कूद गए!",
+   "caps": "पर हनुमान जी *द्वार से | *नहीं गए | *दीवार फाँदकर | अंदर *कूद गए!"
+  },
+  {
+   "text": "और अंदर पहला कदम, बाएँ पैर से रखा, मानो शत्रुओं के सिर पर!",
+   "caps": "और अंदर *पहला कदम | *बाएँ पैर से रखा | मानो *शत्रुओं के | *सिर पर!"
+  },
+  {
+   "text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।",
+   "caps": "क्या *आपको | ये *पता था? | *कमेंट में | ज़रूर *बताइए"
+  },
+  {
+   "text": "सीख यही है, ताक़त के साथ संयम हो, तो जीत पक्की है।",
+   "caps": "*सीख यही है | *ताक़त के साथ | *संयम हो | तो *जीत पक्की है",
+   "gap": 0.15
+  }
+ ]
+}
