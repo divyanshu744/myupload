@@ -24,7 +24,7 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] nala-setu | राम सेतु किसने बनाया | Valmiki Ramayana, Yuddha Kanda 22 | क्या आप जानते हैं, राम सेतु सिर्फ़ पाँच दिन में बना था? (skipped 2026-11-23: already in Metricool from the older batch, posting 2026-12-10)
 - [x] hanuman-surasa | लंका के रास्ते की तीन परीक्षाएँ | Valmiki Ramayana, Sundara Kanda 1 | क्या आप जानते हैं, समुद्र पार करते हुए हनुमान जी को तीन बार रोका गया? (posted 2026-12-20)
 - [x] lankini | लंका की रक्षक देवी | Valmiki Ramayana, Sundara Kanda 3 | क्या आप जानते हैं, लंका की रक्षा एक देवी करती थीं? (posted 2026-12-21)
-- [ ] kabandha | बिना सिर का राक्षस कबंध | Valmiki Ramayana, Aranya Kanda 69-73 | क्या आप जानते हैं, राम को सुग्रीव का पता एक बिना सिर वाले राक्षस ने दिया?
+- [x] kabandha | बिना सिर का राक्षस कबंध | Valmiki Ramayana, Aranya Kanda 69-73 | क्या आप जानते हैं, राम को सुग्रीव का पता एक बिना सिर वाले राक्षस ने दिया? (posted 2026-12-22)
 - [ ] aditya-hridayam | आदित्य हृदय स्तोत्र | Valmiki Ramayana, Yuddha Kanda 105 | क्या आप जानते हैं, रावण से आख़िरी युद्ध से पहले राम को एक ऋषि ने स्तोत्र सिखाया?
 - [ ] matali-rath | इंद्र का रथ राम के लिए | Valmiki Ramayana, Yuddha Kanda 102 | क्या आप जानते हैं, आख़िरी युद्ध में राम इंद्र के रथ पर लड़े थे?
 - [ ] krauncha-shloka | पहला श्लोक कैसे बना | Valmiki Ramayana, Bala Kanda 2 | क्या आप जानते हैं, दुनिया का पहला श्लोक एक पक्षी के दुख से निकला?

@@ -1,0 +1,104 @@
+{
+ "title": "बिना सिर का राक्षस कबंध",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana, Aranya Kanda 69.1-69.20: after Jatayu's cremation Rama and Lakshmana go south through the forest and meet Kabandha, a huge rakshasa with no head, one great eye in his chest and a mouth in his belly (kabandha = headless trunk); he seizes the brothers with his very long arms",
+  "Valmiki Ramayana, Aranya Kanda 69.21-70.20: Rama tells Lakshmana to cut off the arms; Rama cuts the right arm and Lakshmana the left with their swords; Kabandha falls and asks who they are",
+  "Valmiki Ramayana, Aranya Kanda 70.21-71.: on hearing Rama's name he is glad and tells his story: he was a beautiful being (Danu, son of Sri) who took a terrifying form to frighten sages; the sage Sthulashira cursed him to keep it; Indra struck him with his vajra so that his head and thighs sank into his body",
+  "Valmiki Ramayana, Aranya Kanda 71: Indra told him that when Rama cuts off his arms in the forest he will be freed and go to heaven; Kabandha asks to be burnt in a fire",
+  "Valmiki Ramayana, Aranya Kanda 72-73: Lakshmana burns the body in a pit; Kabandha rises from the fire in a shining divine form and tells Rama to befriend Sugriva at Rishyamuka near Lake Pampa, who was driven out by his brother Vali, and who will help find Sita"
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि राम को सुग्रीव का पता, एक बिना सिर वाले राक्षस ने दिया था?",
+   "caps": "क्या आप *जानते हैं | कि राम को *सुग्रीव का पता | एक *बिना सिर वाले | *राक्षस ने दिया था?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "सीता जी को ढूँढते हुए, राम और लक्ष्मण, घने जंगल में पहुँचे।",
+   "caps": "*सीता जी को ढूँढते हुए | राम और *लक्ष्मण | घने *जंगल में पहुँचे"
+  },
+  {
+   "text": "तभी उन्हें एक विशाल राक्षस दिखा, जिसका सिर था ही नहीं!",
+   "caps": "*तभी उन्हें | एक *विशाल राक्षस दिखा | जिसका *सिर | था ही *नहीं!"
+  },
+  {
+   "text": "उसकी छाती में बस एक बड़ी आँख थी, और पेट में, मुँह।",
+   "caps": "उसकी *छाती में | बस एक *बड़ी आँख थी | और *पेट में | *मुँह"
+  },
+  {
+   "text": "उसका नाम था कबंध, यानी बिना सिर वाला धड़।",
+   "caps": "उसका नाम था *कबंध | यानी *बिना सिर | वाला *धड़"
+  },
+  {
+   "text": "उसने अपनी लंबी भुजाओं से, दोनों भाइयों को जकड़ लिया।",
+   "caps": "उसने अपनी *लंबी भुजाओं से | दोनों *भाइयों को | *जकड़ लिया"
+  },
+  {
+   "text": "वो हँसा, आज तो भोजन, ख़ुद चलकर आया है!",
+   "caps": "वो *हँसा | आज तो *भोजन | ख़ुद *चलकर आया है!"
+  },
+  {
+   "text": "लक्ष्मण घबराकर बोले, भैया, आप निकल जाइए!",
+   "caps": "*लक्ष्मण घबराकर | *बोले | भैया | आप *निकल जाइए!"
+  },
+  {
+   "text": "राम बोले, लक्ष्मण, डरो मत, इसकी भुजाएँ काट दो!",
+   "caps": "राम *बोले | लक्ष्मण | *डरो मत | इसकी *भुजाएँ काट दो!"
+  },
+  {
+   "text": "राम ने दाईं भुजा काटी, और लक्ष्मण ने बाईं।",
+   "caps": "राम ने *दाईं भुजा काटी | और *लक्ष्मण ने | *बाईं"
+  },
+  {
+   "text": "कबंध धरती पर गिरा, और पूछा, तुम दोनों कौन हो?",
+   "caps": "*कबंध | धरती पर *गिरा | और पूछा | तुम दोनों *कौन हो?"
+  },
+  {
+   "text": "राम का नाम सुनते ही, वो ख़ुश हो गया, और बोला, मैं श्राप से राक्षस बना था।",
+   "caps": "*राम का नाम | सुनते ही *ख़ुश हो गया | और बोला | मैं *श्राप से | *राक्षस बना था"
+  },
+  {
+   "text": "ऋषि के श्राप से रूप बिगड़ा, और इंद्र के वज्र से, सिर धड़ में धँस गया।",
+   "caps": "*ऋषि के श्राप से | रूप *बिगड़ा | और *इंद्र के वज्र से | *सिर धड़ में धँस गया"
+  },
+  {
+   "text": "इंद्र ने कहा था, जब राम तेरी भुजाएँ काटेंगे, तब तू मुक्त होगा।",
+   "caps": "*इंद्र ने कहा था | जब *राम | तेरी *भुजाएँ काटेंगे | तब तू *मुक्त होगा"
+  },
+  {
+   "text": "उसने कहा, मुझे अग्नि में जला दो, फिर मैं तुम्हें रास्ता बताऊँगा।",
+   "caps": "उसने कहा | मुझे *अग्नि में | *जला दो | फिर मैं तुम्हें | *रास्ता बताऊँगा"
+  },
+  {
+   "text": "चिता की आग से, वो चमकता हुआ, दिव्य रूप लेकर निकला!",
+   "caps": "*चिता की आग से | वो *चमकता हुआ | *दिव्य रूप | लेकर *निकला!"
+  },
+  {
+   "text": "उसने कहा, राम, ऋष्यमूक पर्वत पर जाओ, और वानर राजा सुग्रीव से, मित्रता करो।",
+   "caps": "उसने कहा *राम | *ऋष्यमूक पर्वत | पर जाओ | और *वानर राजा सुग्रीव से | *मित्रता करो"
+  },
+  {
+   "text": "सुग्रीव अपने भाई बाली से, राज्य से निकाले गए हैं, पर वही, सीता जी का पता लगाने में, तुम्हारी मदद करेंगे।",
+   "caps": "*सुग्रीव | अपने भाई *बाली से | राज्य से *निकाले गए हैं | पर वही *सीता जी का पता | *मदद करेंगे"
+  },
+  {
+   "text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।",
+   "caps": "क्या *आपको | ये *पता था? | *कमेंट में | ज़रूर *बताइए"
+  },
+  {
+   "text": "सीख यही है, मदद कभी-कभी, सबसे अनजान रूप में मिलती है।",
+   "caps": "*सीख यही है | *मदद कभी-कभी | सबसे *अनजान रूप में | *मिलती है",
+   "gap": 0.15
+  }
+ ]
+}
