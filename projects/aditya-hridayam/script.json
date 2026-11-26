@@ -1,0 +1,111 @@
+{
+ "title": "आदित्य हृदय स्तोत्र",
+ "voice": "hm_omega",
+ "speed": 1.5,
+ "lead": 0.2,
+ "outro": 1.0,
+ "gap": 0.12,
+ "music": "bed",
+ "sources": [
+  "Valmiki Ramayana (Gita Press numbering), Yuddha Kanda 105 (some southern editions number it 107), verses 1-2: Rama, exhausted by the battle, stands lost in thought, seeing Ravana before him ready to fight again",
+  "Yuddha Kanda 105.2-5: the sage Agastya, who had come with the devas to watch the battle, approaches Rama: 'Rama, mighty-armed, hear this eternal secret by which you will conquer all enemies in battle: the Aditya Hridayam, holy, destroyer of all foes, giver of victory, destroyer of worry and grief'",
+  "Yuddha Kanda 105.7-8 and 105.22: the Sun is Brahma, Vishnu, Shiva, Skanda, Prajapati, Indra, Kubera, Kala, Yama, Soma and Varuna; he is the destroyer of darkness and it is he who creates and sustains all beings",
+  "Yuddha Kanda 105.6 and 105.25: the Sun is worshipped by devas and asuras alike (surasura-namaskrtam); whoever recites this hymn in calamity, hardship, wild places or fear does not sink into despair",
+  "Yuddha Kanda 105.26-27: 'Recite this three times and you will be victorious in battle; this very moment you will slay Ravana.' Saying this, Agastya went away as he had come",
+  "Yuddha Kanda 105.28-30: Rama's grief left him; purified, he sipped water three times (achamana), looked at the Sun, recited the hymn, felt great joy, took up his bow and went toward Ravana",
+  "Yuddha Kanda 105.31: the Sun, standing amid the hosts of devas, glad and knowing that the end of the lord of the night-rangers was near, said to Rama: 'Hurry!' (tvareti)",
+  "Note: this sarga is in the popular (Gita Press / southern) text; some scholarly editions treat it as a later addition. The reel follows the popular text and calls it Valmiki Ramayana, Yuddha Kanda."
+ ],
+ "lines": [
+  {
+   "text": "क्या आप जानते हैं, कि रावण से आख़िरी युद्ध से ठीक पहले, राम को एक ऋषि ने, सूर्य देव का एक स्तोत्र सिखाया था?",
+   "caps": "क्या आप *जानते हैं | कि *रावण से | आख़िरी *युद्ध से ठीक पहले | राम को एक *ऋषि ने | *सूर्य देव का | एक *स्तोत्र सिखाया था?"
+  },
+  {
+   "text": "नहीं? तो आइए, मैं बताता हूँ।",
+   "caps": "*नहीं? | तो *आइए | मैं *बताता हूँ",
+   "gap": 0.15
+  },
+  {
+   "text": "लंका के मैदान में, राम और रावण, आमने-सामने थे।",
+   "caps": "लंका के *मैदान में | *राम और रावण | *आमने-सामने थे"
+  },
+  {
+   "text": "रावण अपने रथ पर, फिर से युद्ध के लिए तैयार खड़ा था।",
+   "caps": "रावण अपने *रथ पर | फिर से *युद्ध के लिए | *तैयार खड़ा था"
+  },
+  {
+   "text": "लंबे युद्ध से राम थक चुके थे, और गहरी चिंता में खड़े थे।",
+   "caps": "लंबे *युद्ध से | राम *थक चुके थे | और गहरी *चिंता में | *खड़े थे"
+  },
+  {
+   "text": "तभी देवताओं के साथ युद्ध देखने आए, अगस्त्य ऋषि, राम के पास पहुँचे।",
+   "caps": "तभी *देवताओं के साथ | युद्ध *देखने आए | *अगस्त्य ऋषि | राम के पास *पहुँचे"
+  },
+  {
+   "text": "उन्होंने कहा, राम, मैं तुम्हें एक गुप्त स्तोत्र देता हूँ, आदित्य हृदय।",
+   "caps": "उन्होंने कहा *राम | मैं *तुम्हें एक | *गुप्त स्तोत्र | *देता हूँ | *आदित्य हृदय"
+  },
+  {
+   "text": "इससे हर शत्रु हार जाता है, और मन की चिंता और शोक, मिट जाते हैं।",
+   "caps": "इससे हर *शत्रु | *हार जाता है | और मन की *चिंता | और *शोक | *मिट जाते हैं"
+  },
+  {
+   "text": "सूर्य ही ब्रह्मा हैं, विष्णु हैं, शिव हैं, इंद्र, यम और वरुण भी वही हैं।",
+   "caps": "*सूर्य ही | *ब्रह्मा हैं | *विष्णु हैं | *शिव हैं | *इंद्र, यम | और *वरुण | भी *वही हैं"
+  },
+  {
+   "text": "वही अंधेरा मिटाते हैं, और वही, हर जीव को जीवन देते हैं।",
+   "caps": "वही *अंधेरा | *मिटाते हैं | और वही हर *जीव को | *जीवन देते हैं"
+  },
+  {
+   "text": "देवता और असुर, दोनों उन्हें प्रणाम करते हैं।",
+   "caps": "*देवता और असुर | *दोनों उन्हें | *प्रणाम करते हैं"
+  },
+  {
+   "text": "जो भी संकट में, या डर में, इसका पाठ करता है, वो कभी निराश नहीं होता।",
+   "caps": "जो भी *संकट में | या *डर में | इसका *पाठ करता है | वो कभी *निराश नहीं होता"
+  },
+  {
+   "text": "ऋषि बोले, इसे तीन बार जपो, और तुम युद्ध जीत जाओगे।",
+   "caps": "ऋषि *बोले | इसे *तीन बार | *जपो | और तुम *युद्ध | *जीत जाओगे"
+  },
+  {
+   "text": "और इसी पल, तुम रावण का अंत करोगे।",
+   "caps": "और *इसी पल | तुम *रावण का | *अंत करोगे"
+  },
+  {
+   "text": "इतना कहकर, अगस्त्य ऋषि, जैसे आए थे, वैसे ही चले गए।",
+   "caps": "इतना *कहकर | *अगस्त्य ऋषि | जैसे *आए थे | वैसे ही *चले गए"
+  },
+  {
+   "text": "यह सुनते ही, राम का सारा शोक मिट गया।",
+   "caps": "यह *सुनते ही | राम का *सारा शोक | *मिट गया"
+  },
+  {
+   "text": "उन्होंने तीन बार आचमन किया, सूर्य को देखा, और तीन बार स्तोत्र जपा।",
+   "caps": "उन्होंने *तीन बार | *आचमन किया | *सूर्य को देखा | और *तीन बार | *स्तोत्र जपा"
+  },
+  {
+   "text": "मन ख़ुशी से भर गया, उन्होंने धनुष उठाया, और रावण की ओर बढ़े।",
+   "caps": "मन *ख़ुशी से भर गया | उन्होंने *धनुष उठाया | और *रावण की ओर | *बढ़े"
+  },
+  {
+   "text": "तब देवताओं के बीच से, ख़ुद सूर्य देव ने प्रसन्न होकर कहा, राम, जल्दी करो!",
+   "caps": "तब *देवताओं के बीच से | ख़ुद *सूर्य देव ने | *प्रसन्न होकर कहा | *राम | *जल्दी करो!"
+  },
+  {
+   "text": "क्योंकि वे जानते थे, कि रावण का अंत, अब पास है।",
+   "caps": "क्योंकि वे *जानते थे | कि *रावण का अंत | अब *पास है"
+  },
+  {
+   "text": "क्या आपको ये पता था? कमेंट में ज़रूर बताइए।",
+   "caps": "क्या *आपको | ये *पता था? | *कमेंट में | ज़रूर *बताइए"
+  },
+  {
+   "text": "सीख यही है, जब मन थक जाए, तब श्रद्धा ही, नई शक्ति देती है।",
+   "caps": "*सीख यही है | जब मन *थक जाए | तब *श्रद्धा ही | नई *शक्ति देती है",
+   "gap": 0.15
+  }
+ ]
+}
