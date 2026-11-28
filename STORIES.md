@@ -27,7 +27,7 @@ only folk/later tradition, say "मान्यता है" and mark it in sou
 - [x] kabandha | बिना सिर का राक्षस कबंध | Valmiki Ramayana, Aranya Kanda 69-73 | क्या आप जानते हैं, राम को सुग्रीव का पता एक बिना सिर वाले राक्षस ने दिया? (posted 2026-12-22)
 - [x] aditya-hridayam | आदित्य हृदय स्तोत्र | Valmiki Ramayana, Yuddha Kanda 105 | क्या आप जानते हैं, रावण से आख़िरी युद्ध से पहले राम को एक ऋषि ने स्तोत्र सिखाया? (posted 2026-12-23)
 - [x] matali-rath | इंद्र का रथ राम के लिए | Valmiki Ramayana, Yuddha Kanda 102 | क्या आप जानते हैं, आख़िरी युद्ध में राम इंद्र के रथ पर लड़े थे? (posted 2026-12-24)
-- [ ] krauncha-shloka | पहला श्लोक कैसे बना | Valmiki Ramayana, Bala Kanda 2 | क्या आप जानते हैं, दुनिया का पहला श्लोक एक पक्षी के दुख से निकला?
+- [x] krauncha-shloka | पहला श्लोक कैसे बना | Valmiki Ramayana, Bala Kanda 2 | क्या आप जानते हैं, दुनिया का पहला श्लोक एक पक्षी के दुख से निकला? (posted 2026-12-25)
 - [ ] vibhishan-tilak | युद्ध से पहले राजा विभीषण | Valmiki Ramayana, Yuddha Kanda 19 | क्या आप जानते हैं, राम ने युद्ध से पहले ही विभीषण को लंका का राजा बना दिया था?
 - [ ] bharat-nandigram | भरत ने 14 साल कहाँ बिताए | Valmiki Ramayana, Ayodhya Kanda 115 | क्या आप जानते हैं, भरत 14 साल अयोध्या के महल में नहीं रहे?
 - [ ] bhima-hanuman | भीम और हनुमान की मुलाक़ात | Mahabharata, Vana Parva 146-150 | क्या आप जानते हैं, हनुमान जी महाभारत में भी आते हैं?
